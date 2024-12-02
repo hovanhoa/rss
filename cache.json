@@ -6,6 +6,796 @@
       "siteUrl": "https://vnexpress.net/rss/tin-moi-nhat.rss",
       "articles": [
         {
+          "id": "https://vnexpress.net/ong-trump-chon-thong-gia-lam-co-van-cap-cao-ve-trung-dong-4822581.html",
+          "author": null,
+          "description": "Tổng thống đắc cử Trump bổ nhiệm doanh nhân Massad Boulos, bố chồng của Tiffany Trump, làm cố vấn cấp cao về vấn đề Arab và Trung Đông.",
+          "link": "https://vnexpress.net/ong-trump-chon-thong-gia-lam-co-van-cap-cao-ve-trung-dong-4822581.html",
+          "publishedOn": "2024-12-02T00:01:53.000Z",
+          "wordCount": 5929,
+          "title": "Ông Trump chọn thông gia làm cố vấn cấp cao về Trung Đông",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/ap24336659952827-1733096157-2845-1733096420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PpRn6jaQBOb6egtbe668gg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/ap24336659952827-1733096157-2845-1733096420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PpRn6jaQBOb6egtbe668gg"
+        },
+        {
+          "id": "https://vnexpress.net/5-hanh-dong-khiem-ton-tren-chuyen-bay-mua-cao-diem-4822532.html",
+          "author": null,
+          "description": "Đeo tai nghe khi sử dụng thiết bị điện tử, nhường đường cho khách đang vội, giữ bình tĩnh khi gặp sự cố là những mẹo du lịch văn minh mùa cao điểm.",
+          "link": "https://vnexpress.net/5-hanh-dong-khiem-ton-tren-chuyen-bay-mua-cao-diem-4822532.html",
+          "publishedOn": "2024-12-02T00:00:00.000Z",
+          "wordCount": 6298,
+          "title": "5 hành động khiêm tốn trên chuyến bay mùa cao điểm",
+          "imageUrl": "https://vcdn1-dulich.vnecdn.net/2024/12/02/1-5044-1733063528-1733099775-3488-1733099780.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=JtieV62JjnntM1DKNr6_Ew"
+        },
+        {
+          "id": "https://vnexpress.net/cuu-bo-truong-israel-noi-chinh-phu-pham-toi-ac-chien-tranh-o-gaza-4822582.html",
+          "author": null,
+          "description": "Cựu bộ trưởng quốc phòng Israel cáo buộc chính phủ Thủ tướng Netanyahu phạm tội ác chiến tranh và đang tìm cách thanh lọc sắc tộc ở Gaza.",
+          "link": "https://vnexpress.net/cuu-bo-truong-israel-noi-chinh-phu-pham-toi-ac-chien-tranh-o-gaza-4822582.html",
+          "publishedOn": "2024-12-01T23:51:45.000Z",
+          "wordCount": 6109,
+          "title": "Cựu bộ trưởng Israel nói chính phủ phạm tội ác chiến tranh ở Gaza",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/afp-20221218-aa-18122022-99358-3365-8692-1733096218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lPK2Z-ESRyn4Wr4yZ40ndw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/afp-20221218-aa-18122022-99358-3365-8692-1733096218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lPK2Z-ESRyn4Wr4yZ40ndw"
+        },
+        {
+          "id": "https://vnexpress.net/hlv-slot-guardiola-khong-can-ai-thuong-hai-4822585.html",
+          "author": null,
+          "description": "Sau khi Liverpool thắng 2-0 ở vòng 13 Ngoại hạng Anh, HLV Arne Slot tin đồng nghiệp Pep Guardiola sẽ sớm vực dậy Man City và thậm chí cạnh tranh chức vô địch.",
+          "link": "https://vnexpress.net/hlv-slot-guardiola-khong-can-ai-thuong-hai-4822585.html",
+          "publishedOn": "2024-12-01T23:22:40.000Z",
+          "wordCount": 6175,
+          "title": "HLV Slot: 'Guardiola không cần ai thương hại'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/02/slot1-jpg-1733095121-1261-1733095127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mqoGUACqMq_HIIzntrneMQ"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/02/slot1-jpg-1733095121-1261-1733095127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mqoGUACqMq_HIIzntrneMQ"
+        },
+        {
+          "id": "https://vnexpress.net/siet-xet-tuyen-som-khong-giup-cong-bang-hon-4821480.html",
+          "author": null,
+          "description": "Bộ Giáo dục nói siết xét tuyển sớm còn 20% chỉ tiêu để đảm bảo công bằng, nhưng chuyên gia nói điều này thiếu căn cứ, muốn công bằng nhất thì tổ chức thi như Trung Quốc, Hàn Quốc.",
+          "link": "https://vnexpress.net/siet-xet-tuyen-som-khong-giup-cong-bang-hon-4821480.html",
+          "publishedOn": "2024-12-01T23:16:37.000Z",
+          "wordCount": 7130,
+          "title": "Siết xét tuyển sớm 'không giúp công bằng hơn'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/29/233a7820-2-1732849217-17328492-4287-2662-1732851389.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3ljzdNhD4iKgbZ2wBLGz9Q"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/29/233a7820-2-1732849217-17328492-4287-2662-1732851389.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3ljzdNhD4iKgbZ2wBLGz9Q"
+        },
+        {
+          "id": "https://vnexpress.net/danh-thue-mua-ban-bat-dong-san-theo-nam-so-huu-kho-giup-ha-gia-nha-4822565.html",
+          "author": null,
+          "description": "Việc đánh thuế chuyển nhượng bất động sản theo năm sở hữu có thể giảm tình trạng đầu cơ, lướt sóng nhưng khó giúp hạ giá nhà, theo chuyên gia.",
+          "link": "https://vnexpress.net/danh-thue-mua-ban-bat-dong-san-theo-nam-so-huu-kho-giup-ha-gia-nha-4822565.html",
+          "publishedOn": "2024-12-01T23:00:00.000Z",
+          "wordCount": 6625,
+          "title": "'Đánh thuế mua bán bất động sản theo năm sở hữu khó giúp hạ giá nhà'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/dji-20241120105034-0186-d-enha-7989-7491-1733066044.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=486CiZig_JAi_bphSR2XmQ"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/dji-20241120105034-0186-d-enha-7989-7491-1733066044.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=486CiZig_JAi_bphSR2XmQ"
+        },
+        {
+          "id": "https://vnexpress.net/gioi-dau-tu-trung-quoc-do-xo-rot-tien-vao-nganh-do-choi-4822426.html",
+          "author": null,
+          "description": "Nhờ bán Labubu, Molly và các thẻ bài, tranh ảnh, máy điện tử... cổ phiếu doanh nghiệp ngành đồ chơi Trung Quốc tăng trưởng mạnh năm nay.",
+          "link": "https://vnexpress.net/gioi-dau-tu-trung-quoc-do-xo-rot-tien-vao-nganh-do-choi-4822426.html",
+          "publishedOn": "2024-12-01T23:00:00.000Z",
+          "wordCount": 6675,
+          "title": "Giới đầu tư Trung Quốc đổ xô rót tiền vào ngành đồ chơi",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-kinhdoanh.vnecdn.net/2024/12/01/img-7390-1733031161-9322-1733031228.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TnKajVryA0sSN7upbbV7yg"
+          },
+          "imageUrl": "https://vcdn1-kinhdoanh.vnecdn.net/2024/12/01/img-7390-1733031161-9322-1733031228.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TnKajVryA0sSN7upbbV7yg"
+        },
+        {
+          "id": "https://vnexpress.net/hoi-chung-kiet-suc-cua-gen-z-4821839.html",
+          "author": null,
+          "description": "Khóc mỗi lần chạy deadline, sợ đi làm và cảm thấy mình vô dụng là những gì Khánh An, cô gái 24 tuổi trải qua khi bị hội chứng \"burn out\" (kiệt sức) hành hạ nhiều tháng qua.",
+          "link": "https://vnexpress.net/hoi-chung-kiet-suc-cua-gen-z-4821839.html",
+          "publishedOn": "2024-12-01T23:00:00.000Z",
+          "wordCount": 7239,
+          "title": "Hội chứng kiệt sức của Gen Z",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-giadinh.vnecdn.net/2024/11/30/anh2-1732874105-4455-1732975807.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TjKGZ5gGcelED7kaPXVUwQ"
+          },
+          "imageUrl": "https://vcdn1-giadinh.vnecdn.net/2024/11/30/anh2-1732874105-4455-1732975807.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TjKGZ5gGcelED7kaPXVUwQ"
+        },
+        {
+          "id": "https://vnexpress.net/diem-tin-6h-de-xuat-phat-hanh-100-000-ty-trai-phieu-cho-vay-nha-xa-hoi-lang-son-co-tan-bi-thu-tinh-uy-4822583.html",
+          "author": null,
+          "description": "Một năm ông Nguyễn Cao Trí 'ngược xuôi' lo lót sửa kết luận thanh tra; Houthi tuyên bố phóng tên lửa siêu vượt âm vào Israel...",
+          "link": "https://vnexpress.net/diem-tin-6h-de-xuat-phat-hanh-100-000-ty-trai-phieu-cho-vay-nha-xa-hoi-lang-son-co-tan-bi-thu-tinh-uy-4822583.html",
+          "publishedOn": "2024-12-01T23:00:00.000Z",
+          "wordCount": 5771,
+          "title": "Điểm tin 6h: Đề xuất phát hành 100.000 tỷ trái phiếu cho vay nhà xã hội | Lạng Sơn có tân Bí thư Tỉnh ủy",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/8df15a6d64eeb7b0eeff1733066336-7781-6705-1733094527.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3aNgYZm8kmEpA8xWMiFBTw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/8df15a6d64eeb7b0eeff1733066336-7781-6705-1733094527.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=3aNgYZm8kmEpA8xWMiFBTw"
+        },
+        {
+          "id": "https://vnexpress.net/tran-fiorentina-inter-milan-bi-hoan-vi-cau-thu-dot-quy-4822579.html",
+          "author": null,
+          "description": "Tiền vệ Edoardo Bove đổ gục xuống sân, khiến trận Fiorentina gặp Inter Milan ở vòng 14 Serie A ngày 1/12 bị hoãn từ phút 16.",
+          "link": "https://vnexpress.net/tran-fiorentina-inter-milan-bi-hoan-vi-cau-thu-dot-quy-4822579.html",
+          "publishedOn": "2024-12-01T22:45:05.000Z",
+          "wordCount": 6070,
+          "title": "Trận Fiorentina - Inter Milan bị hoãn vì cầu thủ đột quỵ",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/02/bove-jpg-1733091430-2307-1733092636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QpbjBboHe-ZOngfpVIW8jg"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/02/bove-jpg-1733091430-2307-1733092636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QpbjBboHe-ZOngfpVIW8jg"
+        },
+        {
+          "id": "https://vnexpress.net/mbappe-ghi-ban-va-hong-an-kho-tin-4822575.html",
+          "author": null,
+          "description": "Tiền đạo Kylian Mbappe ghi một bàn, trước khi bỏ lỡ hai cơ hội đối mặt trong trận Real thắng Getafe 2-0 tối 1/12 ở La Liga.",
+          "link": "https://vnexpress.net/mbappe-ghi-ban-va-hong-an-kho-tin-4822575.html",
+          "publishedOn": "2024-12-01T22:26:08.000Z",
+          "wordCount": 6113,
+          "title": "Mbappe ghi bàn và hỏng ăn khó tin",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/02/new-project-2024-12-02t021655-2734-8703-1733091848.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OLubyX0b34_IX6pD8rH2Kw"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/02/new-project-2024-12-02t021655-2734-8703-1733091848.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OLubyX0b34_IX6pD8rH2Kw"
+        },
+        {
+          "id": "https://vnexpress.net/y-tuong-nho-nato-bao-tro-de-ngung-ban-cua-ong-zelensky-4822136.html",
+          "author": null,
+          "description": "Ukraine đề cập khả năng nhượng bộ lãnh thổ và được NATO bảo trợ an ninh để ngừng bắn với Nga, nhưng Moskva khả năng cao sẽ không chấp thuận.",
+          "link": "https://vnexpress.net/y-tuong-nho-nato-bao-tro-de-ngung-ban-cua-ong-zelensky-4822136.html",
+          "publishedOn": "2024-12-01T22:00:00.000Z",
+          "wordCount": 6661,
+          "title": "Ý tưởng 'nhờ NATO bảo trợ để ngừng bắn' của ông Zelensky",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/30/skynews-ramsay-zelenskyy-67615-7685-6088-1732946015.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qNEkxyQXUeRZVOw9f0FGsw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/30/skynews-ramsay-zelenskyy-67615-7685-6088-1732946015.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qNEkxyQXUeRZVOw9f0FGsw"
+        },
+        {
+          "id": "https://vnexpress.net/7-nang-cap-du-kien-co-tren-iphone-17-pro-4821672.html",
+          "author": null,
+          "description": "Hai mẫu iPhone 17 Pro và 17 Pro Max dự kiến có thiết kế mới, dùng khung nhôm thay cho titan, trang bị chip Wi-Fi 7 do Apple thiết kế.",
+          "link": "https://vnexpress.net/7-nang-cap-du-kien-co-tren-iphone-17-pro-4821672.html",
+          "publishedOn": "2024-12-01T22:00:00.000Z",
+          "wordCount": 5990,
+          "title": "7 nâng cấp dự kiến có trên iPhone 17 Pro",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-sohoa.vnecdn.net/2024/11/28/iphone-17-pro-dual-tone-rectan-3603-6665-1732807344.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uZdJ1Nqw0gZHWkvfiuGzgQ"
+          },
+          "imageUrl": "https://vcdn1-sohoa.vnecdn.net/2024/11/28/iphone-17-pro-dual-tone-rectan-3603-6665-1732807344.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=uZdJ1Nqw0gZHWkvfiuGzgQ"
+        },
+        {
+          "id": "https://vnexpress.net/het-tien-bo-cuoc-chua-ung-thu-4819087.html",
+          "author": null,
+          "description": "Kinh tế luôn là gánh nặng trong cuộc chiến với ung thư, nhiều gia đình khuynh gia bại sản, có người \"đứt gánh giữa đường\" bởi không có tiền chữa bệnh.",
+          "link": "https://vnexpress.net/het-tien-bo-cuoc-chua-ung-thu-4819087.html",
+          "publishedOn": "2024-12-01T22:00:00.000Z",
+          "wordCount": 6940,
+          "title": "Hết tiền, bỏ cuộc chữa ung thư",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-suckhoe.vnecdn.net/2024/11/25/233a2225-1717990369-1732518335-5176-1732519943.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cqHUWv9LKT0t5Apz09JkBg"
+          },
+          "imageUrl": "https://vcdn1-suckhoe.vnecdn.net/2024/11/25/233a2225-1717990369-1732518335-5176-1732519943.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=cqHUWv9LKT0t5Apz09JkBg"
+        },
+        {
+          "id": "https://vnexpress.net/thai-lan-no-luc-tro-thanh-trung-tam-san-xuat-xe-dien-dong-nam-a-4822473.html",
+          "author": null,
+          "description": "Với nhiều ưu đãi từ chính phủ Thái, các hãng Trung Quốc mở rộng xây nhà máy tại đây, trong nỗ lực trở thành trung tâm sản xuất xe điện.",
+          "link": "https://vnexpress.net/thai-lan-no-luc-tro-thanh-trung-tam-san-xuat-xe-dien-dong-nam-a-4822473.html",
+          "publishedOn": "2024-12-01T22:00:00.000Z",
+          "wordCount": 6585,
+          "title": "Thái Lan nỗ lực trở thành 'trung tâm sản xuất xe điện Đông Nam Á'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/tha0125-thailand-gettyimages-2-7049-8081-1733037147.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aCyyDvokN5F3pEAbJXZxYA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/tha0125-thailand-gettyimages-2-7049-8081-1733037147.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aCyyDvokN5F3pEAbJXZxYA"
+        },
+        {
+          "id": "https://vnexpress.net/yamaha-augur-155-2025-xe-ga-dang-la-4822566.html",
+          "author": null,
+          "description": "Xe ga phong cách thể thao phát triển riêng cho thị trường Đài Loan, trang bị nhiều tính năng, lắp động cơ 155 phân khối.",
+          "link": "https://vnexpress.net/yamaha-augur-155-2025-xe-ga-dang-la-4822566.html",
+          "publishedOn": "2024-12-01T21:00:00.000Z",
+          "wordCount": 5872,
+          "title": "Yamaha Augur 155 2025 - xe ga dáng lạ",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/YamahaAugur155-1733066798-3105-1733067455.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ez1rwnk6v86OAATAij_zjA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/YamahaAugur155-1733066798-3105-1733067455.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ez1rwnk6v86OAATAij_zjA"
+        },
+        {
+          "id": "https://vnexpress.net/phong-trao-khong-dan-ong-no-ro-tai-my-sau-khi-ong-trump-dac-cu-4822577.html",
+          "author": null,
+          "description": "Nhiều phụ nữ Mỹ chọn lối sống không hẹn hò, không kết hôn, không quan hệ tình dục và không sinh con với đàn ông​​​​​​​, nhằm thể hiện sự bất mãn sau khi ông Trump tái đắc cử.",
+          "link": "https://vnexpress.net/phong-trao-khong-dan-ong-no-ro-tai-my-sau-khi-ong-trump-dac-cu-4822577.html",
+          "publishedOn": "2024-12-01T21:00:00.000Z",
+          "wordCount": 5695,
+          "title": "Phong trào 'không đàn ông' nở rộ tại Mỹ sau khi ông Trump đắc cử",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/Frame1810-1733075463-7963-1733078668.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LlRRDrGhDlI2aNFREDai-w"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/Frame1810-1733075463-7963-1733078668.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=LlRRDrGhDlI2aNFREDai-w"
+        },
+        {
+          "id": "https://vnexpress.net/san-xuat-trung-quoc-tiep-tuc-tang-truong-4822530.html",
+          "author": null,
+          "description": "Chỉ số PMI của Trung Quốc tăng 2 tháng liên tiếp, cho thấy các chính sách kích thích của nước này bắt đầu có tác dụng.",
+          "link": "https://vnexpress.net/san-xuat-trung-quoc-tiep-tuc-tang-truong-4822530.html",
+          "publishedOn": "2024-12-01T20:05:00.000Z",
+          "wordCount": 6090,
+          "title": "Sản xuất Trung Quốc tiếp tục tăng trưởng",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-kinhdoanh.vnecdn.net/2024/12/01/china-pmi-reuters-1733046900-4276-1733047073.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YDfqh8a3ToeCRfkn9VnHJw"
+          },
+          "imageUrl": "https://vcdn1-kinhdoanh.vnecdn.net/2024/12/01/china-pmi-reuters-1733046900-4276-1733047073.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YDfqh8a3ToeCRfkn9VnHJw"
+        },
+        {
+          "id": "https://vnexpress.net/ten-lua-iskander-tap-kich-don-vi-dac-nhiem-tinh-nhue-ukraine-4822571.html",
+          "author": null,
+          "description": "Bộ Quốc phòng Nga công bố video UAV theo dõi mục tiêu, chỉ điểm cho tên lửa Iskander tập kích đơn vị đặc nhiệm hải quân Ukraine ở Mykolaiv.",
+          "link": "https://vnexpress.net/ten-lua-iskander-tap-kich-don-vi-dac-nhiem-tinh-nhue-ukraine-4822571.html",
+          "publishedOn": "2024-12-01T18:03:25.000Z",
+          "wordCount": 6177,
+          "title": "Tên lửa Iskander tập kích 'đơn vị đặc nhiệm tinh nhuệ Ukraine'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/iskandersouth-1733075733-9896-1733075832.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=sSR_1RJgkjlio0oUxr8mCg&t=image"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/iskandersouth-1733075733-9896-1733075832.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=sSR_1RJgkjlio0oUxr8mCg&t=image"
+        },
+        {
+          "id": "https://vnexpress.net/veo-cot-song-do-nang-ta-nang-200-kg-4822467.html",
+          "author": null,
+          "description": "Nam thanh niên 19 tuổi đau mỏi vùng lưng, hình thể lệch bất thường, bác sĩ phát hiện bị vẹo cột sống nặng do tập gym sai cách.",
+          "link": "https://vnexpress.net/veo-cot-song-do-nang-ta-nang-200-kg-4822467.html",
+          "publishedOn": "2024-12-01T18:00:00.000Z",
+          "wordCount": 6039,
+          "title": "Vẹo cột sống do nâng tạ nặng 200 kg",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-suckhoe.vnecdn.net/2024/12/01/0eec111572a1c9ff90b0-173303734-4387-4562-1733037658.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ok1e9JZdYAwbgkGnNN1kUQ"
+          },
+          "imageUrl": "https://vcdn1-suckhoe.vnecdn.net/2024/12/01/0eec111572a1c9ff90b0-173303734-4387-4562-1733037658.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ok1e9JZdYAwbgkGnNN1kUQ"
+        },
+        {
+          "id": "https://vnexpress.net/liverpool-thang-de-man-city-4822574.html",
+          "author": null,
+          "description": "Tiền đạo Mohamed Salah ghi dấu giày vào hai bàn giúp đội đầu bảng Liverpool hạ Man City 2-0, và tạo cách biệt 9 điểm ở Ngoại hạng Anh.",
+          "link": "https://vnexpress.net/liverpool-thang-de-man-city-4822574.html",
+          "publishedOn": "2024-12-01T17:53:34.000Z",
+          "wordCount": 6338,
+          "title": "Liverpool thắng dễ Man City",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/liverpool-1733072189-173307219-9209-4579-1733072266.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v4_cjPacAbTRyilmWzV4oQ"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/liverpool-1733072189-173307219-9209-4579-1733072266.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v4_cjPacAbTRyilmWzV4oQ"
+        },
+        {
+          "id": "https://vnexpress.net/de-xuat-phat-hanh-100-000-ty-dong-trai-phieu-cho-vay-nha-xa-hoi-4822567.html",
+          "author": null,
+          "description": "Chính phủ đề xuất triển khai gói ưu đãi 100.000 tỷ đồng cho vay nhà xã hội từ nguồn vốn trái phiếu, áp dụng trong 5 năm.",
+          "link": "https://vnexpress.net/de-xuat-phat-hanh-100-000-ty-dong-trai-phieu-cho-vay-nha-xa-hoi-4822567.html",
+          "publishedOn": "2024-12-01T17:05:00.000Z",
+          "wordCount": 6161,
+          "title": "Đề xuất phát hành 100.000 tỷ đồng trái phiếu cho vay nhà xã hội",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/8df15a6d64eeb7b0eeff-173306630-6914-2880-1733066496.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WRr4p0NM46jFnwASJ60wFA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/8df15a6d64eeb7b0eeff-173306630-6914-2880-1733066496.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=WRr4p0NM46jFnwASJ60wFA"
+        },
+        {
+          "id": "https://vnexpress.net/thuc-pham-giup-tang-de-khang-ngay-lanh-4822464.html",
+          "author": null,
+          "description": "Gừng, tỏi, mật ong, nấm hương, táo đỏ, quả giàu vitamin C, súp lơ xanh và hạnh nhân giúp cơ thể ấm, nâng cao đề kháng mùa lạnh.",
+          "link": "https://vnexpress.net/thuc-pham-giup-tang-de-khang-ngay-lanh-4822464.html",
+          "publishedOn": "2024-12-01T17:03:00.000Z",
+          "wordCount": 6309,
+          "title": "Thực phẩm giúp tăng đề kháng ngày lạnh",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-suckhoe.vnecdn.net/2024/12/01/to-i-1733035453-6926-1733035497.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KsM8y-U_fspdedV0zM7w4A"
+          },
+          "imageUrl": "https://vcdn1-suckhoe.vnecdn.net/2024/12/01/to-i-1733035453-6926-1733035497.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KsM8y-U_fspdedV0zM7w4A"
+        },
+        {
+          "id": "https://vnexpress.net/khach-nha-giau-bi-thu-nhieu-tien-khi-roi-maldives-4822428.html",
+          "author": null,
+          "description": "Từ 1/12, phí xuất cảnh của các du khách rời Maldives sẽ tăng đến 4 lần so với giá cũ, khách sử dụng dịch vụ càng \"xịn\" phí bị thu càng cao.",
+          "link": "https://vnexpress.net/khach-nha-giau-bi-thu-nhieu-tien-khi-roi-maldives-4822428.html",
+          "publishedOn": "2024-12-01T17:02:00.000Z",
+          "wordCount": 6029,
+          "title": "Khách nhà giàu bị thu nhiều tiền khi rời Maldives",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-dulich.vnecdn.net/2024/12/01/1-1733025800-7905-1733025858.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iXfXOVib5NuR_VnMClU8XA"
+          },
+          "imageUrl": "https://vcdn1-dulich.vnecdn.net/2024/12/01/1-1733025800-7905-1733025858.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iXfXOVib5NuR_VnMClU8XA"
+        },
+        {
+          "id": "https://vnexpress.net/tu-2-12-ba-con-giap-giau-nut-do-do-vach-4821630.html",
+          "author": null,
+          "description": "Từ tuần này, ba con giáp trong bài trắc nghiệm vui sẽ có sự nghiệp suôn sẻ, tài lộc dồi dào, tình yêu ngọt ngào và sức khỏe tốt!",
+          "link": "https://vnexpress.net/tu-2-12-ba-con-giap-giau-nut-do-do-vach-4821630.html",
+          "publishedOn": "2024-12-01T17:01:00.000Z",
+          "wordCount": 5619,
+          "title": "Từ 2/12, ba con giáp giàu 'nứt đố đổ vách'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/29/untitledhyy-1732852001-2356-1732852007.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2rPn_ikzkfImAqPy4xwW8A"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/29/untitledhyy-1732852001-2356-1732852007.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=2rPn_ikzkfImAqPy4xwW8A"
+        },
+        {
+          "id": "https://vnexpress.net/chelsea-thang-lon-o-ngoai-hang-anh-4822570.html",
+          "author": null,
+          "description": "Song sát Nicolas Jackson, Cole Palmer cùng ghi bàn giúp Chelsea hạ Aston Villa 3-0 ở vòng 13 để lọt top 3 Ngoại hạng Anh.",
+          "link": "https://vnexpress.net/chelsea-thang-lon-o-ngoai-hang-anh-4822570.html",
+          "publishedOn": "2024-12-01T17:00:14.000Z",
+          "wordCount": 6312,
+          "title": "Chelsea thắng lớn ở Ngoại hạng Anh",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/chelJPG-1733067993-5287-1733068307.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FKlvZRl2TkMqIdIzNTYl_Q"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/chelJPG-1733067993-5287-1733068307.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FKlvZRl2TkMqIdIzNTYl_Q"
+        },
+        {
+          "id": "https://vnexpress.net/cong-nhan-volkswagen-dinh-cong-4822568.html",
+          "author": null,
+          "description": "Công nhân Volkswagen sẽ đình công ngày 2/12, để phản đối kế hoạch cắt giảm chi phí mạnh tay mà hãng xe Đức công bố gần đây.",
+          "link": "https://vnexpress.net/cong-nhan-volkswagen-dinh-cong-4822568.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6003,
+          "title": "Công nhân Volkswagen đình công",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-kinhdoanh.vnecdn.net/2024/12/01/volkswagen-strike-reuters-1733-6210-8661-1733070189.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KgUDgUVOUXSknfEi4g5x6w"
+          },
+          "imageUrl": "https://vcdn1-kinhdoanh.vnecdn.net/2024/12/01/volkswagen-strike-reuters-1733-6210-8661-1733070189.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=KgUDgUVOUXSknfEi4g5x6w"
+        },
+        {
+          "id": "https://vnexpress.net/mot-nam-lo-lot-sua-ket-luan-thanh-tra-cua-dai-gia-nguyen-cao-tri-4822563.html",
+          "author": null,
+          "description": "VKS cáo buộc ông Nguyễn Cao Trí đã chi tiền lo lót 10 cán bộ từ cấp trung ương đến địa phương để sửa kết luận thanh tra, nhằm thâu tóm dự án Đại Ninh rồi bán 27.600 tỷ đồng.",
+          "link": "https://vnexpress.net/mot-nam-lo-lot-sua-ket-luan-thanh-tra-cua-dai-gia-nguyen-cao-tri-4822563.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 7510,
+          "title": "Một năm ông Nguyễn Cao Trí 'ngược xuôi' lo lót sửa kết luận thanh tra",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/cao-tri-1733063447-1733063741-3610-1733063921.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FYKulWSmG1hB17jPywA0Rg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/cao-tri-1733063447-1733063741-3610-1733063921.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FYKulWSmG1hB17jPywA0Rg"
+        },
+        {
+          "id": "https://vnexpress.net/lua-nguoi-tinh-the-chap-dat-lay-8-ty-dong-roi-bo-tron-4822562.html",
+          "author": null,
+          "description": "Lê Xuân Thắng, 45 tuổi, dụ dỗ người tình đem 3 lô đất thế chấp vay 8 tỷ đồng rồi chiếm đoạt, bỏ trốn qua nhiều nước, khi về Việt Nam thì bị bắt.",
+          "link": "https://vnexpress.net/lua-nguoi-tinh-the-chap-dat-lay-8-ty-dong-roi-bo-tron-4822562.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 5802,
+          "title": "Lừa người tình thế chấp đất lấy 8 tỷ đồng rồi bỏ trốn",
+          "imageUrl": "https://s1cdn.vnecdn.net/vnexpress/restruct/i/v9531/logo_default.jpg"
+        },
+        {
+          "id": "https://vnexpress.net/mong-anh-la-nguoi-tri-thuc-lich-su-kinh-te-on-dinh-4822547.html",
+          "author": null,
+          "description": "Tôi dịu dàng, tinh tế, biết quan tâm tới mọi người, cư xử có phép tắc.",
+          "link": "https://vnexpress.net/mong-anh-la-nguoi-tri-thuc-lich-su-kinh-te-on-dinh-4822547.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 5857,
+          "title": "Mong anh là người trí thức, lịch sự, kinh tế ổn định",
+          "imageUrl": "https://s1cdn.vnecdn.net/vnexpress/restruct/i/v9531/logo_default.jpg"
+        },
+        {
+          "id": "https://vnexpress.net/ba-nhom-nguoi-o-nga-tu-tac-cung-4822537.html",
+          "author": null,
+          "description": "Xe máy không có lỗi trong chuyện tắc đường ở Việt Nam, bởi chỉ một nhóm người ý thức kém mới là thủ phạm khiến cả ngã tư kẹt cứng.",
+          "link": "https://vnexpress.net/ba-nhom-nguoi-o-nga-tu-tac-cung-4822537.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6293,
+          "title": "Ba nhóm người ở ngã tư tắc cứng",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/440584222817290013767267373998-7665-3805-1733050738.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f0bS0nZGHScxf085hjlypA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/440584222817290013767267373998-7665-3805-1733050738.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=f0bS0nZGHScxf085hjlypA"
+        },
+        {
+          "id": "https://vnexpress.net/do-toi-nho-nhen-hay-ban-be-vo-tam-4822513.html",
+          "author": null,
+          "description": "Bạn bè xung quanh tôi không có kỹ năng sống tập thể, luôn phụ thuộc vào tôi.",
+          "link": "https://vnexpress.net/do-toi-nho-nhen-hay-ban-be-vo-tam-4822513.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 5782,
+          "title": "Do tôi nhỏ nhen hay bạn bè vô tâm",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/DALLE20240511175600Awideformat-6561-2153-1733057753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GOD0-6dAAL6skorrZNwqVA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/DALLE20240511175600Awideformat-6561-2153-1733057753.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=GOD0-6dAAL6skorrZNwqVA"
+        },
+        {
+          "id": "https://vnexpress.net/ban-ve-so-cho-nguoi-di-lamborghini-4822496.html",
+          "author": null,
+          "description": "Trong những năm qua, một số tỉnh miền Trung đưa ra các chính sách thu hút vận chuyển hàng container bằng tàu biển, cả cho hàng xuất nhập khẩu lẫn hàng vận chuyển nội địa, cả cho chủ hàng và các hãng tàu.",
+          "link": "https://vnexpress.net/ban-ve-so-cho-nguoi-di-lamborghini-4822496.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6753,
+          "title": "Bán vé số cho người đi Lamborghini",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/tau-1733097746-7433-1733097773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D5CqYtbcG1OYrh2Hn8cW2g"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/tau-1733097746-7433-1733097773.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=D5CqYtbcG1OYrh2Hn8cW2g"
+        },
+        {
+          "id": "https://vnexpress.net/cong-tu-bac-lieu-cung-loat-phim-hollywood-ra-rap-thang-12-4822424.html",
+          "author": null,
+          "description": "Phim Việt \"Công tử Bạc Liêu\", \"Chị dâu\", \"Kính vạn hoa\" cùng tác phẩm Hollywood \"Mufasa\" và \"Nhím Sonic 3\" công chiếu trong nước tháng 12.",
+          "link": "https://vnexpress.net/cong-tu-bac-lieu-cung-loat-phim-hollywood-ra-rap-thang-12-4822424.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6688,
+          "title": "'Công tử Bạc Liêu' cùng loạt phim Hollywood ra rạp tháng 12",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-giaitri.vnecdn.net/2024/12/01/hi08631-1733040379-1733040399-6312-8994-1733040760.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gIcWFSOztuP8lluxmGcIlw"
+          },
+          "imageUrl": "https://vcdn1-giaitri.vnecdn.net/2024/12/01/hi08631-1733040379-1733040399-6312-8994-1733040760.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=gIcWFSOztuP8lluxmGcIlw"
+        },
+        {
+          "id": "https://vnexpress.net/hoc-sinh-lam-robot-cao-muoi-4822317.html",
+          "author": null,
+          "description": "Hai học sinh lớp 12 tại Bạc Liêu chế tạo robot hoạt động bằng pin mặt trời, tự động cào, vun muối thành luống năng suất bằng ba nông dân.",
+          "link": "https://vnexpress.net/hoc-sinh-lam-robot-cao-muoi-4822317.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6355,
+          "title": "Học sinh làm robot cào muối",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/30/Robotcaomuoi1-1732961505-7225-1732961507.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bv4_kdvlaP8uq4zPWQup8Q"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/30/Robotcaomuoi1-1732961505-7225-1732961507.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bv4_kdvlaP8uq4zPWQup8Q"
+        },
+        {
+          "id": "https://vnexpress.net/ket-dep-cua-nguoi-me-tre-hien-gan-cuu-con-4822023.html",
+          "author": null,
+          "description": "Bốn tháng sau cuộc phẫu thuật hiến tặng gan, Huỳnh Thị Thu Tuyền trở lại công việc bán hàng, trong khi con gái chuẩn bị đi học mẫu giáo.",
+          "link": "https://vnexpress.net/ket-dep-cua-nguoi-me-tre-hien-gan-cuu-con-4822023.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6551,
+          "title": "Kết đẹp của người mẹ trẻ hiến gan cứu con",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-giadinh.vnecdn.net/2024/11/29/z6074416112944-278f79976d84ea4-3378-6560-1732878637.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i3h_oPc8VYltRteHsGDgCA"
+          },
+          "imageUrl": "https://vcdn1-giadinh.vnecdn.net/2024/11/29/z6074416112944-278f79976d84ea4-3378-6560-1732878637.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=i3h_oPc8VYltRteHsGDgCA"
+        },
+        {
+          "id": "https://vnexpress.net/go-rao-atacms-ong-biden-co-the-da-day-ukraine-vao-the-kho-4821763.html",
+          "author": null,
+          "description": "Mỹ cho phép Ukraine dùng tên lửa ATACMS tập kích lãnh thổ Nga, điều khó mang lại lợi thế cho Kiev mà còn khiến Moskva đáp trả quyết liệt hơn.",
+          "link": "https://vnexpress.net/go-rao-atacms-ong-biden-co-the-da-day-ukraine-vao-the-kho-4821763.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6802,
+          "title": "Gỡ rào ATACMS, ông Biden có thể đã đẩy Ukraine vào thế khó",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/29/5563187178137268557a-ukraine-3-8576-5146-1732873246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mZ3d51s42KFGDko7HWKB0g"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/29/5563187178137268557a-ukraine-3-8576-5146-1732873246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mZ3d51s42KFGDko7HWKB0g"
+        },
+        {
+          "id": "https://vnexpress.net/10-nam-theo-duoi-giac-mo-lam-phi-cong-cua-co-gai-can-tho-4821637.html",
+          "author": null,
+          "description": "Là học sinh giỏi môn Sinh với nhiều giải thưởng, Hải Trân có thể đỗ nhiều trường Y dược như định hướng của bố, nhưng quyết định học phi công để thực hiện giấc mơ từ năm 12 tuổi.",
+          "link": "https://vnexpress.net/10-nam-theo-duoi-giac-mo-lam-phi-cong-cua-co-gai-can-tho-4821637.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6745,
+          "title": "10 năm theo đuổi giấc mơ làm phi công của cô gái Cần Thơ",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/30/img-6467-jpeg-1732853571-3214-1732939636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=R4zFIgvD5pfxEnchTbyrzA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/30/img-6467-jpeg-1732853571-3214-1732939636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=R4zFIgvD5pfxEnchTbyrzA"
+        },
+        {
+          "id": "https://vnexpress.net/hue-se-lay-lai-vi-the-khi-tro-thanh-thanh-pho-truc-thuoc-trung-uong-4821432.html",
+          "author": null,
+          "description": "Theo ông Nguyễn Văn Phương, Chủ tịch tỉnh Thừa Thiên Huế, trở thành thành phố trực thuộc trung ương là cơ hội để Huế phát triển, lấy lại vị thế đô thị lớn của cả nước.",
+          "link": "https://vnexpress.net/hue-se-lay-lai-vi-the-khi-tro-thanh-thanh-pho-truc-thuoc-trung-uong-4821432.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 7829,
+          "title": "'Huế sẽ lấy lại vị thế khi trở thành thành phố trực thuộc Trung ương'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/1-1533-1732770821-1733052621-8579-1733052632.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YLKvVYPFQco68Cg1M8-Mxg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/1-1533-1732770821-1733052621-8579-1733052632.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=YLKvVYPFQco68Cg1M8-Mxg"
+        },
+        {
+          "id": "https://vnexpress.net/ong-zelensky-gia-nhap-nato-co-y-nghia-song-con-voi-ukraine-4822559.html",
+          "author": null,
+          "description": "Tổng thống Zelensky cho biết lời mời gia nhập NATO rất quan trọng với sự tồn vong của Ukraine khi nước này đang trong xung đột với Nga.",
+          "link": "https://vnexpress.net/ong-zelensky-gia-nhap-nato-co-y-nghia-song-con-voi-ukraine-4822559.html",
+          "publishedOn": "2024-12-01T16:26:04.000Z",
+          "wordCount": 6100,
+          "title": "Ông Zelensky: Gia nhập NATO có ý nghĩa sống còn với Ukraine",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/afp-20241201-36nx8ll-v1-highre-4921-5334-1733066679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dQuq6tkd8qTxQd4jfSuNkg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/afp-20241201-36nx8ll-v1-highre-4921-5334-1733066679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dQuq6tkd8qTxQd4jfSuNkg"
+        },
+        {
+          "id": "https://vnexpress.net/lang-son-co-tan-bi-thu-tinh-uy-4822569.html",
+          "author": null,
+          "description": "Ông Hoàng Văn Nghiệm, Phó bí thư thường trực Tỉnh ủy, được bầu làm Bí thư Tỉnh ủy Lạng Sơn nhiệm kỳ 2020-2025.",
+          "link": "https://vnexpress.net/lang-son-co-tan-bi-thu-tinh-uy-4822569.html",
+          "publishedOn": "2024-12-01T16:23:45.000Z",
+          "wordCount": 5737,
+          "title": "Lạng Sơn có tân Bí thư Tỉnh ủy",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/511009510998dsc814416293801164-3038-8864-1733068524.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bYUui9iGdCQvdRXZrXRFAg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/511009510998dsc814416293801164-3038-8864-1733068524.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bYUui9iGdCQvdRXZrXRFAg"
+        },
+        {
+          "id": "https://vnexpress.net/khanh-thanh-14-cau-hy-vong-tai-dong-thap-4822376.html",
+          "author": null,
+          "description": "Quỹ Hy vọng khánh thành 13 cầu bê tông mới, trong đó có ba công trình do Roche Việt Nam tài trợ ở huyện Lai Vung và Châu Thành, ngày 1/12.",
+          "link": "https://vnexpress.net/khanh-thanh-14-cau-hy-vong-tai-dong-thap-4822376.html",
+          "publishedOn": "2024-12-01T16:01:58.000Z",
+          "wordCount": 6393,
+          "title": "Khánh thành 14 cầu Hy Vọng tại Đồng Tháp",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/z6086433638076-356daf52d03bd48-4073-6604-1733035438.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=31vjzygezd6fwoHjsxVE1w"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/z6086433638076-356daf52d03bd48-4073-6604-1733035438.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=31vjzygezd6fwoHjsxVE1w"
+        },
+        {
+          "id": "https://vnexpress.net/cuoc-song-mien-nui-trong-cai-chet-cua-bay-ong-4822507.html",
+          "author": null,
+          "description": "Tác giả Hữu Vi viết về nỗi niềm khi thấy sự hiện đại dần thay thế phong tục truyền thống, trong sách \"Cái chết của bầy ong\".",
+          "link": "https://vnexpress.net/cuoc-song-mien-nui-trong-cai-chet-cua-bay-ong-4822507.html",
+          "publishedOn": "2024-12-01T15:32:45.000Z",
+          "wordCount": 6334,
+          "title": "Cuộc sống miền núi trong 'Cái chết của bầy ong'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-giaitri.vnecdn.net/2024/12/01/hinh-5-1733052490-1733052545-7343-1733053072.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sM6CEad3hKupdGyQKs8Ntw"
+          },
+          "imageUrl": "https://vcdn1-giaitri.vnecdn.net/2024/12/01/hinh-5-1733052490-1733052545-7343-1733053072.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=sM6CEad3hKupdGyQKs8Ntw"
+        },
+        {
+          "id": "https://vnexpress.net/man-utd-vui-dap-everton-o-ngoai-hang-anh-4822564.html",
+          "author": null,
+          "description": "Tiền đạo Marcus Rashford và Joshua Zirkzee cùng lập cú đúp, giúp Man Utd hạ đội khách Everton 4-0 ở vòng 13 Ngoại hạng Anh.",
+          "link": "https://vnexpress.net/man-utd-vui-dap-everton-o-ngoai-hang-anh-4822564.html",
+          "publishedOn": "2024-12-01T15:22:27.000Z",
+          "wordCount": 6176,
+          "title": "Man Utd vùi dập Everton ở Ngoại hạng Anh",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/man-utd-zirkzee-1733066345-173-8104-7257-1733067694.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jdq7-yOvS3bCSqxe9x9rsg"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/man-utd-zirkzee-1733066345-173-8104-7257-1733067694.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jdq7-yOvS3bCSqxe9x9rsg"
+        },
+        {
+          "id": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-sieu-vuot-am-vao-israel-4822545.html",
+          "author": null,
+          "description": "Lực lượng Houthi tuyên bố phóng tên lửa siêu vượt âm nhằm vào \"mục tiêu trọng yếu\" ở miền trung Israel, nhưng không nêu chi tiết.",
+          "link": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-sieu-vuot-am-vao-israel-4822545.html",
+          "publishedOn": "2024-12-01T15:21:16.000Z",
+          "wordCount": 5986,
+          "title": "Houthi tuyên bố phóng tên lửa siêu vượt âm vào Israel",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/afp-20240916-36gg3tk-v1-previe-3438-8334-1733061133.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9MFDPs0lbQFdVHW6oHX7dA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/afp-20240916-36gg3tk-v1-previe-3438-8334-1733061133.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9MFDPs0lbQFdVHW6oHX7dA"
+        },
+        {
+          "id": "https://vnexpress.net/giao-vien-bo-viec-tren-the-gioi-tang-4820712.html",
+          "author": null,
+          "description": "Tỷ lệ giáo viên bỏ nghề tăng gấp đôi trên toàn cầu sau 7 năm, một phần lý do liên quan đến tiền lương, theo đại diện UNESCO.",
+          "link": "https://vnexpress.net/giao-vien-bo-viec-tren-the-gioi-tang-4820712.html",
+          "publishedOn": "2024-12-01T15:07:32.000Z",
+          "wordCount": 6200,
+          "title": "Giáo viên bỏ việc trên thế giới tăng",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/26/tth-9848-1732631874-9245-1732631903.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jDl7k8pcQetd8F36TpwuZw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/26/tth-9848-1732631874-9245-1732631903.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=jDl7k8pcQetd8F36TpwuZw"
+        },
+        {
+          "id": "https://vnexpress.net/kieu-bao-tai-singapore-de-xuat-lap-vuon-uom-giai-phap-sang-tao-o-viet-nam-4822524.html",
+          "author": null,
+          "description": "Người Việt ở Singapore đề xuất lập cơ chế thu hút nhân tài là kiều bào được tiếp cận tiến bộ công nghệ, tạo thành vườn ươm cho các giải pháp sáng tạo.",
+          "link": "https://vnexpress.net/kieu-bao-tai-singapore-de-xuat-lap-vuon-uom-giai-phap-sang-tao-o-viet-nam-4822524.html",
+          "publishedOn": "2024-12-01T14:56:00.000Z",
+          "wordCount": 6092,
+          "title": "Kiều bào tại Singapore đề xuất lập 'vườn ươm giải pháp sáng tạo' ở Việt Nam",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/lq-00542-jpg-1733062423-173306-4888-2557-1733062735.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DWeGda-KirFVp-ljzWllMg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/lq-00542-jpg-1733062423-173306-4888-2557-1733062735.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DWeGda-KirFVp-ljzWllMg"
+        },
+        {
+          "id": "https://vnexpress.net/ung-dung-hen-ho-lam-tang-benh-tinh-duc-4822508.html",
+          "author": null,
+          "description": "Người khám bệnh lây truyền qua đường tình dục tăng nhanh mỗi năm dưới sự tác động của nhiều yếu tố như ứng dụng hẹn hò, quan hệ đồng giới.",
+          "link": "https://vnexpress.net/ung-dung-hen-ho-lam-tang-benh-tinh-duc-4822508.html",
+          "publishedOn": "2024-12-01T14:16:00.000Z",
+          "wordCount": 6597,
+          "title": "'Ứng dụng hẹn hò làm tăng bệnh tình dục'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-suckhoe.vnecdn.net/2024/12/01/bs-loi-kham-benh-1694169639855-6159-8100-1733055227.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CSLYgjNUHR3TJCtOKNIDTg"
+          },
+          "imageUrl": "https://vcdn1-suckhoe.vnecdn.net/2024/12/01/bs-loi-kham-benh-1694169639855-6159-8100-1733055227.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=CSLYgjNUHR3TJCtOKNIDTg"
+        },
+        {
+          "id": "https://vnexpress.net/tim-kiem-mot-nua-diem-dam-tram-tinh-va-chan-thanh-4822527.html",
+          "author": null,
+          "description": "Em là quản lý ở một tập đoàn đa quốc gia, là cô bé tràn đầy năng lượng, lành tính, thiện lương và yêu chó.",
+          "link": "https://vnexpress.net/tim-kiem-mot-nua-diem-dam-tram-tinh-va-chan-thanh-4822527.html",
+          "publishedOn": "2024-12-01T14:00:00.000Z",
+          "wordCount": 5949,
+          "title": "Tìm kiếm một nửa điềm đạm, trầm tính và chân thành",
+          "imageUrl": "https://s1cdn.vnecdn.net/vnexpress/restruct/i/v9531/logo_default.jpg"
+        },
+        {
+          "id": "https://vnexpress.net/ban-trai-phan-boi-toi-vi-can-dieu-gi-do-moi-me-4821931.html",
+          "author": null,
+          "description": "Nhiều đêm tôi thức trắng, đầu óc không ngừng tua lại quá khứ: cảnh anh nắm tay cô gái khác, cảnh tôi ngã xe, lúc ngồi cô đơn trong phòng.",
+          "link": "https://vnexpress.net/ban-trai-phan-boi-toi-vi-can-dieu-gi-do-moi-me-4821931.html",
+          "publishedOn": "2024-12-01T14:00:00.000Z",
+          "wordCount": 6292,
+          "title": "Bạn trai phản bội tôi vì cần điều gì đó mới mẻ",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/DALLE20240525090817Awideformat-3450-7662-1733044826.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-Lpvl1S9tivRVxkF5KuxHw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/DALLE20240525090817Awideformat-3450-7662-1733044826.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=-Lpvl1S9tivRVxkF5KuxHw"
+        },
+        {
+          "id": "https://vnexpress.net/iran-cam-ket-ung-ho-syria-chong-phien-quan-4822541.html",
+          "author": null,
+          "description": "Ngoại trưởng Iran tuyên bố sẽ tới Damascus để truyền tải thông điệp ủng hộ chính phủ và quân đội Syria chống cuộc tấn công của phiến quân.",
+          "link": "https://vnexpress.net/iran-cam-ket-ung-ho-syria-chong-phien-quan-4822541.html",
+          "publishedOn": "2024-12-01T13:50:52.000Z",
+          "wordCount": 6056,
+          "title": "Iran cam kết ủng hộ Syria chống phiến quân",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/171539217-1733058795-5165-1733059024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PuunkkmUlox_sr_msYwgFw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/171539217-1733058795-5165-1733059024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PuunkkmUlox_sr_msYwgFw"
+        },
+        {
+          "id": "https://vnexpress.net/cong-trinh-nao-o-sai-gon-nhu-tran-do-bat-quai-4822505.html",
+          "author": null,
+          "description": "Rộng 7 hecta với 8 cạnh đều nhau, nhìn từ trên cao, nơi đây như một trận đồ bát quái giữa trung tâm thành phố.",
+          "link": "https://vnexpress.net/cong-trinh-nao-o-sai-gon-nhu-tran-do-bat-quai-4822505.html",
+          "publishedOn": "2024-12-01T13:09:19.000Z",
+          "wordCount": 5558,
+          "title": "Công trình nào ở Sài Gòn như 'trận đồ bát quái'?",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/khamchihoa191271449249338-1733-6626-7520-1733040659.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aQm3q4eT7wOa8olz9CupkA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/khamchihoa191271449249338-1733-6626-7520-1733040659.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=aQm3q4eT7wOa8olz9CupkA"
+        },
+        {
+          "id": "https://vnexpress.net/khai-thac-nuoc-ngam-lam-nghieng-truc-trai-dat-4822546.html",
+          "author": null,
+          "description": "Một nghiên cứu cho thấy việc khai thác nước ngầm trong nhiều thập kỷ đã khiến trục Trái Đất nghiêng về phía đông gần 80 cm trong 20 năm.",
+          "link": "https://vnexpress.net/khai-thac-nuoc-ngam-lam-nghieng-truc-trai-dat-4822546.html",
+          "publishedOn": "2024-12-01T13:01:27.000Z",
+          "wordCount": 6093,
+          "title": "Khai thác nước ngầm làm nghiêng trục Trái Đất",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/a-nh-ma-n-hi-nh-2024-12-01-lu-7860-1242-1733058228.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UMDqwiTpez-Fsjxwf2haEg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/a-nh-ma-n-hi-nh-2024-12-01-lu-7860-1242-1733058228.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=UMDqwiTpez-Fsjxwf2haEg"
+        },
+        {
+          "id": "https://vnexpress.net/tu-the-ngu-tot-cho-nguoi-benh-da-day-4822442.html",
+          "author": null,
+          "description": "Bác sĩ khuyên nằm nghiêng bên trái hoặc nằm ngửa với vị trí đầu cao giúp giảm các triệu chứng khó chịu của bệnh dạ dày.",
+          "link": "https://vnexpress.net/tu-the-ngu-tot-cho-nguoi-benh-da-day-4822442.html",
+          "publishedOn": "2024-12-01T13:00:00.000Z",
+          "wordCount": 6240,
+          "title": "Tư thế ngủ tốt cho người bệnh dạ dày",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-suckhoe.vnecdn.net/2024/12/01/pexels-ketut-subiyanto-4473864-6326-2419-1733031008.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tSroGikO7fZbCTeKXXeozQ"
+          },
+          "imageUrl": "https://vcdn1-suckhoe.vnecdn.net/2024/12/01/pexels-ketut-subiyanto-4473864-6326-2419-1733031008.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=tSroGikO7fZbCTeKXXeozQ"
+        },
+        {
           "id": "https://vnexpress.net/hamas-cong-bo-video-con-tin-my-cau-cuu-ong-trump-4822374.html",
           "author": null,
           "description": "Hamas công bố video cho thấy Edan, con tin bị Hamas bắt cóc tháng 10/2023, cầu xin ông Trump và ông Netanyahu giải cứu mình.",
@@ -1483,6 +2273,321 @@
       "siteUrl": "https://vnexpress.net/rss/the-gioi.rss",
       "articles": [
         {
+          "id": "https://vnexpress.net/ong-trump-chon-thong-gia-lam-co-van-cap-cao-ve-trung-dong-4822581.html",
+          "author": null,
+          "description": "Tổng thống đắc cử Trump bổ nhiệm doanh nhân Massad Boulos, bố chồng của Tiffany Trump, làm cố vấn cấp cao về vấn đề Arab và Trung Đông.",
+          "link": "https://vnexpress.net/ong-trump-chon-thong-gia-lam-co-van-cap-cao-ve-trung-dong-4822581.html",
+          "publishedOn": "2024-12-02T00:01:53.000Z",
+          "wordCount": 5929,
+          "title": "Ông Trump chọn thông gia làm cố vấn cấp cao về Trung Đông",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/ap24336659952827-1733096157-2845-1733096420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PpRn6jaQBOb6egtbe668gg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/ap24336659952827-1733096157-2845-1733096420.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PpRn6jaQBOb6egtbe668gg"
+        },
+        {
+          "id": "https://vnexpress.net/cuu-bo-truong-israel-noi-chinh-phu-pham-toi-ac-chien-tranh-o-gaza-4822582.html",
+          "author": null,
+          "description": "Cựu bộ trưởng quốc phòng Israel cáo buộc chính phủ Thủ tướng Netanyahu phạm tội ác chiến tranh và đang tìm cách thanh lọc sắc tộc ở Gaza.",
+          "link": "https://vnexpress.net/cuu-bo-truong-israel-noi-chinh-phu-pham-toi-ac-chien-tranh-o-gaza-4822582.html",
+          "publishedOn": "2024-12-01T23:51:45.000Z",
+          "wordCount": 6109,
+          "title": "Cựu bộ trưởng Israel nói chính phủ phạm tội ác chiến tranh ở Gaza",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/afp-20221218-aa-18122022-99358-3365-8692-1733096218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lPK2Z-ESRyn4Wr4yZ40ndw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/afp-20221218-aa-18122022-99358-3365-8692-1733096218.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=lPK2Z-ESRyn4Wr4yZ40ndw"
+        },
+        {
+          "id": "https://vnexpress.net/y-tuong-nho-nato-bao-tro-de-ngung-ban-cua-ong-zelensky-4822136.html",
+          "author": null,
+          "description": "Ukraine đề cập khả năng nhượng bộ lãnh thổ và được NATO bảo trợ an ninh để ngừng bắn với Nga, nhưng Moskva khả năng cao sẽ không chấp thuận.",
+          "link": "https://vnexpress.net/y-tuong-nho-nato-bao-tro-de-ngung-ban-cua-ong-zelensky-4822136.html",
+          "publishedOn": "2024-12-01T22:00:00.000Z",
+          "wordCount": 6661,
+          "title": "Ý tưởng 'nhờ NATO bảo trợ để ngừng bắn' của ông Zelensky",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/30/skynews-ramsay-zelenskyy-67615-7685-6088-1732946015.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qNEkxyQXUeRZVOw9f0FGsw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/30/skynews-ramsay-zelenskyy-67615-7685-6088-1732946015.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=qNEkxyQXUeRZVOw9f0FGsw"
+        },
+        {
+          "id": "https://vnexpress.net/ten-lua-iskander-tap-kich-don-vi-dac-nhiem-tinh-nhue-ukraine-4822571.html",
+          "author": null,
+          "description": "Bộ Quốc phòng Nga công bố video UAV theo dõi mục tiêu, chỉ điểm cho tên lửa Iskander tập kích đơn vị đặc nhiệm hải quân Ukraine ở Mykolaiv.",
+          "link": "https://vnexpress.net/ten-lua-iskander-tap-kich-don-vi-dac-nhiem-tinh-nhue-ukraine-4822571.html",
+          "publishedOn": "2024-12-01T18:03:25.000Z",
+          "wordCount": 6177,
+          "title": "Tên lửa Iskander tập kích 'đơn vị đặc nhiệm tinh nhuệ Ukraine'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/iskandersouth-1733075733-9896-1733075832.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=sSR_1RJgkjlio0oUxr8mCg&t=image"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/02/iskandersouth-1733075733-9896-1733075832.gif?w=1200&h=0&q=100&dpr=1&fit=crop&s=sSR_1RJgkjlio0oUxr8mCg&t=image"
+        },
+        {
+          "id": "https://vnexpress.net/go-rao-atacms-ong-biden-co-the-da-day-ukraine-vao-the-kho-4821763.html",
+          "author": null,
+          "description": "Mỹ cho phép Ukraine dùng tên lửa ATACMS tập kích lãnh thổ Nga, điều khó mang lại lợi thế cho Kiev mà còn khiến Moskva đáp trả quyết liệt hơn.",
+          "link": "https://vnexpress.net/go-rao-atacms-ong-biden-co-the-da-day-ukraine-vao-the-kho-4821763.html",
+          "publishedOn": "2024-12-01T17:00:00.000Z",
+          "wordCount": 6802,
+          "title": "Gỡ rào ATACMS, ông Biden có thể đã đẩy Ukraine vào thế khó",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/11/29/5563187178137268557a-ukraine-3-8576-5146-1732873246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mZ3d51s42KFGDko7HWKB0g"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/11/29/5563187178137268557a-ukraine-3-8576-5146-1732873246.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mZ3d51s42KFGDko7HWKB0g"
+        },
+        {
+          "id": "https://vnexpress.net/ong-zelensky-gia-nhap-nato-co-y-nghia-song-con-voi-ukraine-4822559.html",
+          "author": null,
+          "description": "Tổng thống Zelensky cho biết lời mời gia nhập NATO rất quan trọng với sự tồn vong của Ukraine khi nước này đang trong xung đột với Nga.",
+          "link": "https://vnexpress.net/ong-zelensky-gia-nhap-nato-co-y-nghia-song-con-voi-ukraine-4822559.html",
+          "publishedOn": "2024-12-01T16:26:04.000Z",
+          "wordCount": 6100,
+          "title": "Ông Zelensky: Gia nhập NATO có ý nghĩa sống còn với Ukraine",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/afp-20241201-36nx8ll-v1-highre-4921-5334-1733066679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dQuq6tkd8qTxQd4jfSuNkg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/afp-20241201-36nx8ll-v1-highre-4921-5334-1733066679.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=dQuq6tkd8qTxQd4jfSuNkg"
+        },
+        {
+          "id": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-sieu-vuot-am-vao-israel-4822545.html",
+          "author": null,
+          "description": "Lực lượng Houthi tuyên bố phóng tên lửa siêu vượt âm nhằm vào \"mục tiêu trọng yếu\" ở miền trung Israel, nhưng không nêu chi tiết.",
+          "link": "https://vnexpress.net/houthi-tuyen-bo-phong-ten-lua-sieu-vuot-am-vao-israel-4822545.html",
+          "publishedOn": "2024-12-01T15:21:16.000Z",
+          "wordCount": 5986,
+          "title": "Houthi tuyên bố phóng tên lửa siêu vượt âm vào Israel",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/afp-20240916-36gg3tk-v1-previe-3438-8334-1733061133.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9MFDPs0lbQFdVHW6oHX7dA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/afp-20240916-36gg3tk-v1-previe-3438-8334-1733061133.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=9MFDPs0lbQFdVHW6oHX7dA"
+        },
+        {
+          "id": "https://vnexpress.net/kieu-bao-tai-singapore-de-xuat-lap-vuon-uom-giai-phap-sang-tao-o-viet-nam-4822524.html",
+          "author": null,
+          "description": "Người Việt ở Singapore đề xuất lập cơ chế thu hút nhân tài là kiều bào được tiếp cận tiến bộ công nghệ, tạo thành vườn ươm cho các giải pháp sáng tạo.",
+          "link": "https://vnexpress.net/kieu-bao-tai-singapore-de-xuat-lap-vuon-uom-giai-phap-sang-tao-o-viet-nam-4822524.html",
+          "publishedOn": "2024-12-01T14:56:00.000Z",
+          "wordCount": 6092,
+          "title": "Kiều bào tại Singapore đề xuất lập 'vườn ươm giải pháp sáng tạo' ở Việt Nam",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/lq-00542-jpg-1733062423-173306-4888-2557-1733062735.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DWeGda-KirFVp-ljzWllMg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/lq-00542-jpg-1733062423-173306-4888-2557-1733062735.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=DWeGda-KirFVp-ljzWllMg"
+        },
+        {
+          "id": "https://vnexpress.net/iran-cam-ket-ung-ho-syria-chong-phien-quan-4822541.html",
+          "author": null,
+          "description": "Ngoại trưởng Iran tuyên bố sẽ tới Damascus để truyền tải thông điệp ủng hộ chính phủ và quân đội Syria chống cuộc tấn công của phiến quân.",
+          "link": "https://vnexpress.net/iran-cam-ket-ung-ho-syria-chong-phien-quan-4822541.html",
+          "publishedOn": "2024-12-01T13:50:52.000Z",
+          "wordCount": 6056,
+          "title": "Iran cam kết ủng hộ Syria chống phiến quân",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/171539217-1733058795-5165-1733059024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PuunkkmUlox_sr_msYwgFw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/171539217-1733058795-5165-1733059024.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=PuunkkmUlox_sr_msYwgFw"
+        },
+        {
+          "id": "https://vnexpress.net/phat-hien-ran-cuc-doc-bo-tren-chan-khi-dang-lai-xe-4822539.html",
+          "author": null,
+          "description": "Nữ tài xế phát hiện một con rắn độc đang trườn lên chân cô khi đang lái xe trên xa lộ ở bang Victoria.",
+          "link": "https://vnexpress.net/phat-hien-ran-cuc-doc-bo-tren-chan-khi-dang-lai-xe-4822539.html",
+          "publishedOn": "2024-12-01T12:48:10.000Z",
+          "wordCount": 5890,
+          "title": "Phát hiện rắn cực độc bò trên chân khi đang lái xe",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/ran-ho-jpeg-1733053312-9009-1733053775.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kIN9qDswdUnRfauVHgPUBw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/ran-ho-jpeg-1733053312-9009-1733053775.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=kIN9qDswdUnRfauVHgPUBw"
+        },
+        {
+          "id": "https://vnexpress.net/tan-lanh-dao-eu-tham-ukraine-trong-ngay-dau-nhiem-ky-4822535.html",
+          "author": null,
+          "description": "Chủ tịch Hội đồng châu Âu cùng nhà ngoại giao hàng đầu EU thăm Ukraine ngay sau khi nhậm chức, tái khẳng định sự ủng hộ với Kiev.",
+          "link": "https://vnexpress.net/tan-lanh-dao-eu-tham-ukraine-trong-ngay-dau-nhiem-ky-4822535.html",
+          "publishedOn": "2024-12-01T12:21:23.000Z",
+          "wordCount": 6201,
+          "title": "Tân lãnh đạo EU thăm Ukraine trong ngày đầu nhiệm kỳ",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/gdshmc4xuaansvo-jpeg-3939-1733-7977-5297-1733055683.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rz93Mjw8wfo1MplibpqoRw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/gdshmc4xuaansvo-jpeg-3939-1733-7977-5297-1733055683.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Rz93Mjw8wfo1MplibpqoRw"
+        },
+        {
+          "id": "https://vnexpress.net/khoanh-khac-may-bay-syria-khong-kich-doan-xe-phien-quan-4822509.html",
+          "author": null,
+          "description": "Chiến đấu cơ Syria tập kích đoàn xe thiết giáp phiến quân trên cao tốc giữa Aleppo và Damascus, phá hủy nhiều phương tiện và bẻ gãy mũi tấn công.",
+          "link": "https://vnexpress.net/khoanh-khac-may-bay-syria-khong-kich-doan-xe-phien-quan-4822509.html",
+          "publishedOn": "2024-12-01T09:45:07.000Z",
+          "wordCount": 6122,
+          "title": "Khoảnh khắc máy bay Syria không kích đoàn xe phiến quân",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/nembomsyria-1733045482-6873-1733046199.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TR2MdXBTLDuS8AA_OtlHpA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/nembomsyria-1733045482-6873-1733046199.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=TR2MdXBTLDuS8AA_OtlHpA"
+        },
+        {
+          "id": "https://vnexpress.net/my-tuyen-bo-khong-lien-quan-cuoc-tien-cong-cua-phien-quan-syria-4822471.html",
+          "author": null,
+          "description": "Giới chức Mỹ lần đầu bình luận về giao tranh tại thành phố Aleppo, khẳng định không có mối liên hệ nào với phiến quân chống chính phủ Syria.",
+          "link": "https://vnexpress.net/my-tuyen-bo-khong-lien-quan-cuoc-tien-cong-cua-phien-quan-syria-4822471.html",
+          "publishedOn": "2024-12-01T07:50:16.000Z",
+          "wordCount": 6071,
+          "title": "Mỹ tuyên bố không liên quan cuộc tiến công của phiến quân Syria",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/phie-n-qua-n-syria-1733037695-2475-1733037978.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8f02AdEJm7-lvkUVP4lHUQ"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/phie-n-qua-n-syria-1733037695-2475-1733037978.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=8f02AdEJm7-lvkUVP4lHUQ"
+        },
+        {
+          "id": "https://vnexpress.net/tron-trong-nha-ve-sinh-may-bay-de-di-lau-tu-my-den-phap-4822451.html",
+          "author": null,
+          "description": "Người phụ nữ quốc tịch Nga đi lậu vé trên chuyến bay từ New York, Mỹ, đến thủ đô Paris của Pháp nhờ trốn trong nhà vệ sinh.",
+          "link": "https://vnexpress.net/tron-trong-nha-ve-sinh-may-bay-de-di-lau-tu-my-den-phap-4822451.html",
+          "publishedOn": "2024-12-01T06:30:36.000Z",
+          "wordCount": 6006,
+          "title": "Trốn trong nhà vệ sinh máy bay để đi lậu từ Mỹ đến Pháp",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/ma-y-bay-delta-jpeg-1733029983-3363-1733030323.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yvkSg1xM2b42jkQYdFGpuw"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/ma-y-bay-delta-jpeg-1733029983-3363-1733030323.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=yvkSg1xM2b42jkQYdFGpuw"
+        },
+        {
+          "id": "https://vnexpress.net/israel-khong-kich-khien-3-tinh-nguyen-vien-nhan-dao-thiet-mang-4822430.html",
+          "author": null,
+          "description": "Ba tình nguyện viên tổ chức WCK, trong đó một người bị Israel cáo buộc là thành viên Hamas, thiệt mạng trong vụ không kích ở miền nam Dải Gaza.",
+          "link": "https://vnexpress.net/israel-khong-kich-khien-3-tinh-nguyen-vien-nhan-dao-thiet-mang-4822430.html",
+          "publishedOn": "2024-12-01T05:57:35.000Z",
+          "wordCount": 6091,
+          "title": "Israel không kích khiến 3 tình nguyện viên nhân đạo thiệt mạng",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/wck-1733027018-5718-1733027204.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xPzEPFcP1cp3W1qkMN_Gxg"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/wck-1733027018-5718-1733027204.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=xPzEPFcP1cp3W1qkMN_Gxg"
+        },
+        {
+          "id": "https://vnexpress.net/trung-tam-mua-sam-dung-bai-baby-shark-duoi-nguoi-vo-gia-cu-4822394.html",
+          "author": null,
+          "description": "Trung tâm mua sắm ở Montreal phát lặp đi lặp lại bài hát thiếu nhi nổi tiếng \"Baby Shark\" để ngăn người vô gia cư tụ tập ở lối thoát hiểm.",
+          "link": "https://vnexpress.net/trung-tam-mua-sam-dung-bai-baby-shark-duoi-nguoi-vo-gia-cu-4822394.html",
+          "publishedOn": "2024-12-01T04:36:02.000Z",
+          "wordCount": 6048,
+          "title": "Trung tâm mua sắm dùng bài 'Baby Shark' đuổi người vô gia cư",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/baby-shark-homeless-20241128-1-2463-6342-1733021142.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bJTrV5s4qGxBil6bn8QZLA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/baby-shark-homeless-20241128-1-2463-6342-1733021142.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=bJTrV5s4qGxBil6bn8QZLA"
+        },
+        {
+          "id": "https://vnexpress.net/chu-tich-quoc-hoi-len-duong-tham-singapore-va-nhat-ban-4822354.html",
+          "author": null,
+          "description": "Chủ tịch Quốc hội Trần Thanh Mẫn và phu nhân Nguyễn Thị Thanh Nga trưa nay lên đường thăm chính thức Singapore và Nhật Bản ngày 1-7/12.",
+          "link": "https://vnexpress.net/chu-tich-quoc-hoi-len-duong-tham-singapore-va-nhat-ban-4822354.html",
+          "publishedOn": "2024-12-01T04:16:19.000Z",
+          "wordCount": 6201,
+          "title": "Chủ tịch Quốc hội lên đường thăm Singapore và Nhật Bản",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/462586160-938156807647351-1761-7969-6712-1733026561.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AVaFekBQ7FSyQrBCIYCI6A"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/462586160-938156807647351-1761-7969-6712-1733026561.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=AVaFekBQ7FSyQrBCIYCI6A"
+        },
+        {
+          "id": "https://vnexpress.net/cuu-quan-chuc-an-ninh-goc-an-duoc-de-cu-lam-lanh-dao-fbi-4822380.html",
+          "author": null,
+          "description": "Tổng thống đắc cử Mỹ Donald Trump đề cử Kash Patel, cựu quan chức an ninh gốc Ấn trung thành với mình, làm giám đốc FBI.",
+          "link": "https://vnexpress.net/cuu-quan-chuc-an-ninh-goc-an-duoc-de-cu-lam-lanh-dao-fbi-4822380.html",
+          "publishedOn": "2024-12-01T02:09:33.000Z",
+          "wordCount": 5982,
+          "title": "Cựu quan chức an ninh gốc Ấn được đề cử làm lãnh đạo FBI",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/2024-12-01t001644z-1724380990-6591-6540-1733014841.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l27R7NrcJxrytPuG7YzA6Q"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/2024-12-01t001644z-1724380990-6591-6540-1733014841.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=l27R7NrcJxrytPuG7YzA6Q"
+        },
+        {
+          "id": "https://vnexpress.net/tong-thong-dac-cu-trump-chon-ong-thong-gia-lam-dai-su-4822372.html",
+          "author": null,
+          "description": "Ông Trump chọn nhà phát triển bất động sản, Charles Kushner, bố của con rể Jared Kushner, làm đại sứ Mỹ tại Pháp.",
+          "link": "https://vnexpress.net/tong-thong-dac-cu-trump-chon-ong-thong-gia-lam-dai-su-4822372.html",
+          "publishedOn": "2024-12-01T01:29:33.000Z",
+          "wordCount": 5994,
+          "title": "Tổng thống đắc cử Trump chọn ông thông gia làm đại sứ",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/charles-kushner-jpeg-173301330-5889-3666-1733013464.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ClL8LD6-o5IsoFPRGfTXhQ"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/charles-kushner-jpeg-173301330-5889-3666-1733013464.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ClL8LD6-o5IsoFPRGfTXhQ"
+        },
+        {
+          "id": "https://vnexpress.net/hamas-cong-bo-video-con-tin-my-cau-cuu-ong-trump-4822374.html",
+          "author": null,
+          "description": "Hamas công bố video cho thấy Edan, con tin bị Hamas bắt cóc tháng 10/2023, cầu xin ông Trump và ông Netanyahu giải cứu mình.",
+          "link": "https://vnexpress.net/hamas-cong-bo-video-con-tin-my-cau-cuu-ong-trump-4822374.html",
+          "publishedOn": "2024-12-01T00:46:43.000Z",
+          "wordCount": 6110,
+          "title": "Hamas công bố video con tin Mỹ cầu cứu ông Trump",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/vlcsnap-2024-11-30-17h14m04s98-2863-4411-1733012284.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ETtTXy6lv0M3sJB0uCrpKA"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/vlcsnap-2024-11-30-17h14m04s98-2863-4411-1733012284.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ETtTXy6lv0M3sJB0uCrpKA"
+        },
+        {
+          "id": "https://vnexpress.net/ong-trump-doa-ap-thue-100-voi-cac-nuoc-brics-4822371.html",
+          "author": null,
+          "description": "Tổng thống đắc cử Donald Trump cảnh cáo áp thuế 100% với các thành viên nhóm BRICS, nếu khối tìm cách \"thay thế đồng USD\".",
+          "link": "https://vnexpress.net/ong-trump-doa-ap-thue-100-voi-cac-nuoc-brics-4822371.html",
+          "publishedOn": "2024-12-01T00:05:25.000Z",
+          "wordCount": 5911,
+          "title": "Ông Trump dọa áp thuế 100% với các nước BRICS",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/ap24311276948720-8916-17330108-2732-1680-1733011223.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iu99ik_6VPh-UXzpG-uG2Q"
+          },
+          "imageUrl": "https://vcdn1-vnexpress.vnecdn.net/2024/12/01/ap24311276948720-8916-17330108-2732-1680-1733011223.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=iu99ik_6VPh-UXzpG-uG2Q"
+        },
+        {
           "id": "https://vnexpress.net/ly-do-phien-quan-syria-troi-day-sau-8-nam-an-minh-4822158.html",
           "author": null,
           "description": "Sau quãng thời gian náu mình từ năm 2016, phiến quân Syria bất ngờ tấn công quy mô lớn khi quyền lực của Tổng thống Assad và đồng minh Hezbollah suy yếu.",
@@ -2614,6 +3719,216 @@
       "feedUrl": "https://vnexpress.net/rss/the-thao.rss",
       "siteUrl": "https://vnexpress.net/rss/the-thao.rss",
       "articles": [
+        {
+          "id": "https://vnexpress.net/hlv-slot-guardiola-khong-can-ai-thuong-hai-4822585.html",
+          "author": null,
+          "description": "Sau khi Liverpool thắng 2-0 ở vòng 13 Ngoại hạng Anh, HLV Arne Slot tin đồng nghiệp Pep Guardiola sẽ sớm vực dậy Man City và thậm chí cạnh tranh chức vô địch.",
+          "link": "https://vnexpress.net/hlv-slot-guardiola-khong-can-ai-thuong-hai-4822585.html",
+          "publishedOn": "2024-12-01T23:22:40.000Z",
+          "wordCount": 6175,
+          "title": "HLV Slot: 'Guardiola không cần ai thương hại'",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/02/slot1-jpg-1733095121-1261-1733095127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mqoGUACqMq_HIIzntrneMQ"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/02/slot1-jpg-1733095121-1261-1733095127.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=mqoGUACqMq_HIIzntrneMQ"
+        },
+        {
+          "id": "https://vnexpress.net/tran-fiorentina-inter-milan-bi-hoan-vi-cau-thu-dot-quy-4822579.html",
+          "author": null,
+          "description": "Tiền vệ Edoardo Bove đổ gục xuống sân, khiến trận Fiorentina gặp Inter Milan ở vòng 14 Serie A ngày 1/12 bị hoãn từ phút 16.",
+          "link": "https://vnexpress.net/tran-fiorentina-inter-milan-bi-hoan-vi-cau-thu-dot-quy-4822579.html",
+          "publishedOn": "2024-12-01T22:45:05.000Z",
+          "wordCount": 6070,
+          "title": "Trận Fiorentina - Inter Milan bị hoãn vì cầu thủ đột quỵ",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/02/bove-jpg-1733091430-2307-1733092636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QpbjBboHe-ZOngfpVIW8jg"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/02/bove-jpg-1733091430-2307-1733092636.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=QpbjBboHe-ZOngfpVIW8jg"
+        },
+        {
+          "id": "https://vnexpress.net/mbappe-ghi-ban-va-hong-an-kho-tin-4822575.html",
+          "author": null,
+          "description": "Tiền đạo Kylian Mbappe ghi một bàn, trước khi bỏ lỡ hai cơ hội đối mặt trong trận Real thắng Getafe 2-0 tối 1/12 ở La Liga.",
+          "link": "https://vnexpress.net/mbappe-ghi-ban-va-hong-an-kho-tin-4822575.html",
+          "publishedOn": "2024-12-01T22:26:08.000Z",
+          "wordCount": 6113,
+          "title": "Mbappe ghi bàn và hỏng ăn khó tin",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/02/new-project-2024-12-02t021655-2734-8703-1733091848.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OLubyX0b34_IX6pD8rH2Kw"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/02/new-project-2024-12-02t021655-2734-8703-1733091848.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=OLubyX0b34_IX6pD8rH2Kw"
+        },
+        {
+          "id": "https://vnexpress.net/liverpool-thang-de-man-city-4822574.html",
+          "author": null,
+          "description": "Tiền đạo Mohamed Salah ghi dấu giày vào hai bàn giúp đội đầu bảng Liverpool hạ Man City 2-0, và tạo cách biệt 9 điểm ở Ngoại hạng Anh.",
+          "link": "https://vnexpress.net/liverpool-thang-de-man-city-4822574.html",
+          "publishedOn": "2024-12-01T17:53:34.000Z",
+          "wordCount": 6338,
+          "title": "Liverpool thắng dễ Man City",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/liverpool-1733072189-173307219-9209-4579-1733072266.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v4_cjPacAbTRyilmWzV4oQ"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/liverpool-1733072189-173307219-9209-4579-1733072266.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=v4_cjPacAbTRyilmWzV4oQ"
+        },
+        {
+          "id": "https://vnexpress.net/chelsea-thang-lon-o-ngoai-hang-anh-4822570.html",
+          "author": null,
+          "description": "Song sát Nicolas Jackson, Cole Palmer cùng ghi bàn giúp Chelsea hạ Aston Villa 3-0 ở vòng 13 để lọt top 3 Ngoại hạng Anh.",
+          "link": "https://vnexpress.net/chelsea-thang-lon-o-ngoai-hang-anh-4822570.html",
+          "publishedOn": "2024-12-01T17:00:14.000Z",
+          "wordCount": 6312,
+          "title": "Chelsea thắng lớn ở Ngoại hạng Anh",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/chelJPG-1733067993-5287-1733068307.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FKlvZRl2TkMqIdIzNTYl_Q"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/chelJPG-1733067993-5287-1733068307.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=FKlvZRl2TkMqIdIzNTYl_Q"
+        },
+        {
+          "id": "https://vnexpress.net/man-utd-vui-dap-everton-o-ngoai-hang-anh-4822564.html",
+          "author": null,
+          "description": "Tiền đạo Marcus Rashford và Joshua Zirkzee cùng lập cú đúp, giúp Man Utd hạ đội khách Everton 4-0 ở vòng 13 Ngoại hạng Anh.",
+          "link": "https://vnexpress.net/man-utd-vui-dap-everton-o-ngoai-hang-anh-4822564.html",
+          "publishedOn": "2024-12-01T15:22:27.000Z",
+          "wordCount": 6176,
+          "title": "Man Utd vùi dập Everton ở Ngoại hạng Anh",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/man-utd-zirkzee-1733066345-173-8104-7257-1733067694.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jdq7-yOvS3bCSqxe9x9rsg"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/man-utd-zirkzee-1733066345-173-8104-7257-1733067694.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=Jdq7-yOvS3bCSqxe9x9rsg"
+        },
+        {
+          "id": "https://vnexpress.net/quang-hai-ghi-ban-viet-nam-toan-thang-o-han-quoc-4822517.html",
+          "author": null,
+          "description": "Tiền vệ Nguyễn Quang Hải mở tỷ số giúp Việt Nam thắng Jeonbuk Hyundai Motors 3-1, ở trận đấu tập cuối tại Hàn Quốc vào trưa nay 1/12.",
+          "link": "https://vnexpress.net/quang-hai-ghi-ban-viet-nam-toan-thang-o-han-quoc-4822517.html",
+          "publishedOn": "2024-12-01T08:52:00.000Z",
+          "wordCount": 6219,
+          "title": "Quang Hải ghi bàn, Việt Nam toàn thắng ở Hàn Quốc",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/viet-nam-jeonbuk-hyundai-motor-3177-3910-1733043015.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Oj8hK05IFpfswSu5WMKmg"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/viet-nam-jeonbuk-hyundai-motor-3177-3910-1733043015.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=_Oj8hK05IFpfswSu5WMKmg"
+        },
+        {
+          "id": "https://vnexpress.net/cdv-valladolid-doi-duoi-ronaldo-de-lima-4822449.html",
+          "author": null,
+          "description": "CĐV Valladolid, đội đang đứng bét bảng La Liga, yêu cầu Ronaldo De Lima từ chức Chủ tịch CLB sau cuộc khủng hoảng thành tích.",
+          "link": "https://vnexpress.net/cdv-valladolid-doi-duoi-ronaldo-de-lima-4822449.html",
+          "publishedOn": "2024-12-01T07:13:39.000Z",
+          "wordCount": 5962,
+          "title": "CĐV Valladolid đòi đuổi Ronaldo De Lima",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/rona-1733034033-1733034045-4953-1733034103.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=spLsL2f9XyBZgbO2kfPzLw"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/rona-1733034033-1733034045-4953-1733034103.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=spLsL2f9XyBZgbO2kfPzLw"
+        },
+        {
+          "id": "https://vnexpress.net/kinh-ngu-mot-chan-va-phep-mau-tren-duong-dua-xanh-4822446.html",
+          "author": null,
+          "description": "Chỉ có thể dùng tay để vượt qua làn nước, nhưng Hán Quang Thoại không chỉ chinh phục những đường bơi khó, mà còn mang 'phép màu' cho các em nhỏ cơ nhỡ.",
+          "link": "https://vnexpress.net/kinh-ngu-mot-chan-va-phep-mau-tren-duong-dua-xanh-4822446.html",
+          "publishedOn": "2024-12-01T07:03:52.000Z",
+          "wordCount": 6524,
+          "title": "Kình ngư một chân và 'phép màu' trên đường đua xanh",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/Screenshot-2024-12-01-at-12-19-1717-6145-1733030803.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=hUGvBaLcQRS3bP-IVCWdLg"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/Screenshot-2024-12-01-at-12-19-1717-6145-1733030803.png?w=1200&h=0&q=100&dpr=1&fit=crop&s=hUGvBaLcQRS3bP-IVCWdLg"
+        },
+        {
+          "id": "https://vnexpress.net/vu-dinh-duan-hoan-thanh-hat-trick-vo-dich-dnse-aquaman-vietnam-4822389.html",
+          "author": null,
+          "description": "Vũ Đình Duân là người cán đích đầu tiên với thành tích 1 tiếng 53 phút 21 giây, lần thứ 3 liên tiếp vô địch nội dung solo tại DNSE Aquaman Vietnam.",
+          "link": "https://vnexpress.net/vu-dinh-duan-hoan-thanh-hat-trick-vo-dich-dnse-aquaman-vietnam-4822389.html",
+          "publishedOn": "2024-12-01T05:26:13.000Z",
+          "wordCount": 6581,
+          "title": "Vũ Đình Duân hoàn thành hat-trick vô địch DNSE Aquaman Vietnam",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/td50897-1733030970-1733030994-1751-1733031026.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nR9bwzUBnRfWvOq3iFx4eA"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/td50897-1733030970-1733030994-1751-1733031026.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=nR9bwzUBnRfWvOq3iFx4eA"
+        },
+        {
+          "id": "https://vnexpress.net/tuyen-tp-hcm-thong-tri-dnse-aquaman-vietnam-4822417.html",
+          "author": null,
+          "description": "Vũ Đình Duân, Nguyễn Nhựt Kiệt và Nguyễn Thị Kim Tuyến, lần lượt vô địch các cự ly quan trọng của giải hai môn phối hợp DNSE Aquaman Vietnam 2024, sáng 1/12.",
+          "link": "https://vnexpress.net/tuyen-tp-hcm-thong-tri-dnse-aquaman-vietnam-4822417.html",
+          "publishedOn": "2024-12-01T04:08:18.000Z",
+          "wordCount": 6637,
+          "title": "Tuyển TP HCM thống trị DNSE Aquaman Vietnam",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/tbm-1613-jpg-4527-1733023273-1-8222-9292-1733026422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZH1Bu8jKlauvhGiaKMuWvw"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/tbm-1613-jpg-4527-1733023273-1-8222-9292-1733026422.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=ZH1Bu8jKlauvhGiaKMuWvw"
+        },
+        {
+          "id": "https://vnexpress.net/xac-dinh-du-32-doi-du-fifa-club-world-cup-2025-4822378.html",
+          "author": null,
+          "description": "FIFA đã xác định xong 32 CLB góp mặt tại Club World Cup phiên bản mới được tổ chức vào hè 2025.",
+          "link": "https://vnexpress.net/xac-dinh-du-32-doi-du-fifa-club-world-cup-2025-4822378.html",
+          "publishedOn": "2024-12-01T03:56:09.000Z",
+          "wordCount": 6136,
+          "title": "Xác định đủ 32 đội dự FIFA Club World Cup 2025",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/miamiJPG-1733012640-2589-1733012660.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W6-nKHhUnWDfh683KjCaJg"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/miamiJPG-1733012640-2589-1733012660.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=W6-nKHhUnWDfh683KjCaJg"
+        },
+        {
+          "id": "https://vnexpress.net/kim-cuong-lap-cu-dup-vo-dich-dnse-aquaman-vietnam-4822392.html",
+          "author": null,
+          "description": "Nhà vô địch sinh năm 2000 không đối thủ ở cả đường bơi lẫn chạy, giữ vững ngôi hậu của DNSE Aquaman Vietnam 2024, sáng 1/12.",
+          "link": "https://vnexpress.net/kim-cuong-lap-cu-dup-vo-dich-dnse-aquaman-vietnam-4822392.html",
+          "publishedOn": "2024-12-01T03:52:32.000Z",
+          "wordCount": 6769,
+          "title": "Kim Cương lập cú đúp vô địch DNSE Aquaman Vietnam",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/z6086140464706-a662ac0ccb86145-1644-8188-1733023970.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UwBbcu-FiAycWpSvRM8pCg"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/z6086140464706-a662ac0ccb86145-1644-8188-1733023970.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=UwBbcu-FiAycWpSvRM8pCg"
+        },
+        {
+          "id": "https://vnexpress.net/nguyen-thi-oanh-lan-thu-hai-pha-ky-luc-marathon-viet-nam-4822393.html",
+          "author": null,
+          "description": "Về nhất Viettel Marathon sáng 1/12, VĐV Bắc Giang Nguyễn Thị Oanh phá sâu kỷ lục marathon nữ Việt Nam với thông số 2 giờ 39 phút 50 giây.",
+          "link": "https://vnexpress.net/nguyen-thi-oanh-lan-thu-hai-pha-ky-luc-marathon-viet-nam-4822393.html",
+          "publishedOn": "2024-12-01T03:46:40.000Z",
+          "wordCount": 6298,
+          "title": "Nguyễn Thị Oanh lần thứ hai phá kỷ lục marathon Việt Nam",
+          "enclosure": {
+            "type": "image/jpeg",
+            "length": "1200",
+            "url": "https://vcdn1-thethao.vnecdn.net/2024/12/01/oanh-1733024513-1733024639-4235-1733024666.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=APhOyuhGvWHa-wHiPg6TZQ"
+          },
+          "imageUrl": "https://vcdn1-thethao.vnecdn.net/2024/12/01/oanh-1733024513-1733024639-4235-1733024666.jpg?w=1200&h=0&q=100&dpr=1&fit=crop&s=APhOyuhGvWHa-wHiPg6TZQ"
+        },
         {
           "id": "https://vnexpress.net/5-diem-nong-o-tran-liverpool-man-city-4822080.html",
           "author": null,
