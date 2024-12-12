@@ -2,10 +2,1140 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://hovanhoa.github.io/rss/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-11T00:57:27.056Z</updated>
+    <updated>2024-12-12T00:57:04.442Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://hovanhoa.github.io/rss/index.html"/>
     <link rel="self" href="https://hovanhoa.github.io/rss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Nghề chế biến yến sào Khánh Hòa thành di sản quốc gia]]></title>
+        <id>https://vnexpress.net/nghe-che-bien-yen-sao-khanh-hoa-thanh-di-san-quoc-gia-4826734.html</id>
+        <link href="https://vnexpress.net/nghe-che-bien-yen-sao-khanh-hoa-thanh-di-san-quoc-gia-4826734.html"/>
+        <updated>2024-12-12T00:42:07.000Z</updated>
+        <summary type="html"><![CDATA[Nghề khai thác và chế biến yến sào Khánh Hòa được Bộ Văn hóa, Thể thao và Du lịch đưa vào danh mục di sản văn hóa phi vật thể quốc gia.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giám đốc FBI sẽ từ chức trước khi nhiệm kỳ của ông Trump bắt đầu]]></title>
+        <id>https://vnexpress.net/giam-doc-fbi-se-tu-chuc-truoc-khi-nhiem-ky-cua-ong-trump-bat-dau-4826751.html</id>
+        <link href="https://vnexpress.net/giam-doc-fbi-se-tu-chuc-truoc-khi-nhiem-ky-cua-ong-trump-bat-dau-4826751.html"/>
+        <updated>2024-12-12T00:24:51.000Z</updated>
+        <summary type="html"><![CDATA[Giám đốc FBI Christopher Wray thông báo sẽ rời ghế trước khi ông Trump nhậm chức, khi Tổng thống đắc cử đã tỏ rõ ý định sẽ sa thải ông.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giám đốc FBI sẽ từ chức trước khi nhiệm kỳ của ông Trump bắt đầu]]></title>
+        <id>https://vnexpress.net/giam-doc-fbi-se-tu-chuc-truoc-khi-nhiem-ky-cua-ong-trump-bat-dau-4826751.html</id>
+        <link href="https://vnexpress.net/giam-doc-fbi-se-tu-chuc-truoc-khi-nhiem-ky-cua-ong-trump-bat-dau-4826751.html"/>
+        <updated>2024-12-12T00:24:51.000Z</updated>
+        <summary type="html"><![CDATA[Giám đốc FBI Christopher Wray thông báo sẽ rời ghế trước khi ông Trump nhậm chức, khi Tổng thống đắc cử đã tỏ rõ ý định sẽ sa thải ông.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lễ hội thu hoạch băng truyền thống ở Cáp Nhĩ Tân]]></title>
+        <id>https://vnexpress.net/le-hoi-thu-hoach-bang-truyen-thong-o-cap-nhi-tan-4826712.html</id>
+        <link href="https://vnexpress.net/le-hoi-thu-hoach-bang-truyen-thong-o-cap-nhi-tan-4826712.html"/>
+        <updated>2024-12-12T00:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Tháng 12, TP Cáp Nhĩ Tân tỉnh Hắc Long Giang tổ chức lễ hội thu hoạch băng, đánh dấu mở màn các sự kiện mùa đông đặc sắc ở vùng đông bắc Trung Quốc.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iPhone 'giá rẻ' có thể dùng màn hình OLED và camera 48 chấm]]></title>
+        <id>https://vnexpress.net/iphone-gia-re-co-the-dung-man-hinh-oled-va-camera-48-cham-4825819.html</id>
+        <link href="https://vnexpress.net/iphone-gia-re-co-the-dung-man-hinh-oled-va-camera-48-cham-4825819.html"/>
+        <updated>2024-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[iPhone SE 4 được cho là sẽ có thiết kế giống iPhone 14, lần đầu sử dụng màn hình OLED nhưng chỉ có một camera sau.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sun Group cam kết hoàn thành xây dựng sân bay Gia Bình trong 12 tháng]]></title>
+        <id>https://vnexpress.net/sun-group-cam-ket-hoan-thanh-xay-dung-san-bay-gia-binh-trong-12-thang-4826717.html</id>
+        <link href="https://vnexpress.net/sun-group-cam-ket-hoan-thanh-xay-dung-san-bay-gia-binh-trong-12-thang-4826717.html"/>
+        <updated>2024-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sun Group cam kết hoàn thành dự án trong 12 tháng nhờ kinh nghiệm xây sân bay Vân Đồn cùng thuận lợi về thủ tục pháp lý, giải phóng mặt bằng, hỗ trợ của bộ ban ngành.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yếu tố giúp Essensia Sky đáp ứng nhu cầu an cư]]></title>
+        <id>https://vnexpress.net/yeu-to-giup-essensia-sky-dap-ung-nhu-cau-an-cu-4826709.html</id>
+        <link href="https://vnexpress.net/yeu-to-giup-essensia-sky-dap-ung-nhu-cau-an-cu-4826709.html"/>
+        <updated>2024-12-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Essensia Sky nằm ở mặt tiền Nguyễn Hữu Thọ, thuận tiện kết nối, có không gian căn hộ thoáng đãng cùng hệ thống tiện ích chăm sóc sức khỏe đa dạng.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel bắt đầu rút quân khỏi Lebanon]]></title>
+        <id>https://vnexpress.net/israel-bat-dau-rut-quan-khoi-lebanon-4826745.html</id>
+        <link href="https://vnexpress.net/israel-bat-dau-rut-quan-khoi-lebanon-4826745.html"/>
+        <updated>2024-12-11T23:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Quân đội Israel rời khỏi một thị trấn ở miền nam Lebanon để về nước, bắt đầu quá trình rút quân theo thỏa thuận ngừng bắn với nhóm Hezbollah.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel bắt đầu rút quân khỏi Lebanon]]></title>
+        <id>https://vnexpress.net/israel-bat-dau-rut-quan-khoi-lebanon-4826745.html</id>
+        <link href="https://vnexpress.net/israel-bat-dau-rut-quan-khoi-lebanon-4826745.html"/>
+        <updated>2024-12-11T23:53:39.000Z</updated>
+        <summary type="html"><![CDATA[Quân đội Israel rời khỏi một thị trấn ở miền nam Lebanon để về nước, bắt đầu quá trình rút quân theo thỏa thuận ngừng bắn với nhóm Hezbollah.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bức xúc với dạy thêm chủ yếu do 'bị ép']]></title>
+        <id>https://vnexpress.net/buc-xuc-voi-day-them-chu-yeu-do-bi-ep-4823965.html</id>
+        <link href="https://vnexpress.net/buc-xuc-voi-day-them-chu-yeu-do-bi-ep-4823965.html"/>
+        <updated>2024-12-11T23:24:09.000Z</updated>
+        <summary type="html"><![CDATA[Trong khi nhiều học sinh, gia đình muốn học thêm để thi vào trường top đầu, có em bị ép - gây ra bức xúc với việc thầy cô dạy thêm, theo các nhà giáo.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CĐV Man City bị bắt xem hết trận thua Juventus]]></title>
+        <id>https://vnexpress.net/cdv-man-city-bi-bat-xem-het-tran-thua-juventus-4826744.html</id>
+        <link href="https://vnexpress.net/cdv-man-city-bi-bat-xem-het-tran-thua-juventus-4826744.html"/>
+        <updated>2024-12-11T23:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Nhiều CĐV Man City rời ghế ngồi để bỏ về sớm sau bàn thua thứ hai ở lượt sáu Champions League, nhưng bị bảo vệ sân Juventus chặn lại.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CĐV Man City bị bắt xem hết trận thua Juventus]]></title>
+        <id>https://vnexpress.net/cdv-man-city-bi-bat-xem-het-tran-thua-juventus-4826744.html</id>
+        <link href="https://vnexpress.net/cdv-man-city-bi-bat-xem-het-tran-thua-juventus-4826744.html"/>
+        <updated>2024-12-11T23:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Nhiều CĐV Man City rời ghế ngồi để bỏ về sớm sau bàn thua thứ hai ở lượt sáu Champions League, nhưng bị bảo vệ sân Juventus chặn lại.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA công bố nước chủ nhà các kỳ World Cup 2030 và 2034]]></title>
+        <id>https://vnexpress.net/fifa-cong-bo-nuoc-chu-nha-cac-ky-world-cup-2030-va-2034-4826739.html</id>
+        <link href="https://vnexpress.net/fifa-cong-bo-nuoc-chu-nha-cac-ky-world-cup-2030-va-2034-4826739.html"/>
+        <updated>2024-12-11T23:09:04.000Z</updated>
+        <summary type="html"><![CDATA[World Cup 2030 sẽ được tổ chức tại sáu quốc gia trên ba châu lục, còn giải đấu năm 2034 sẽ diễn ra tại Arab Saudi.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FIFA công bố nước chủ nhà các kỳ World Cup 2030 và 2034]]></title>
+        <id>https://vnexpress.net/fifa-cong-bo-nuoc-chu-nha-cac-ky-world-cup-2030-va-2034-4826739.html</id>
+        <link href="https://vnexpress.net/fifa-cong-bo-nuoc-chu-nha-cac-ky-world-cup-2030-va-2034-4826739.html"/>
+        <updated>2024-12-11T23:09:04.000Z</updated>
+        <summary type="html"><![CDATA[World Cup 2030 sẽ được tổ chức tại sáu quốc gia trên ba châu lục, còn giải đấu năm 2034 sẽ diễn ra tại Arab Saudi.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barca lên nhì bảng Champions League]]></title>
+        <id>https://vnexpress.net/barca-len-nhi-bang-champions-league-4826746.html</id>
+        <link href="https://vnexpress.net/barca-len-nhi-bang-champions-league-4826746.html"/>
+        <updated>2024-12-11T23:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Tiền đạo Lamine Yamal góp một kiến tạo giúp Barca thắng 3-2 trên sân Dortmund, ở lượt sáu vòng bảng Champions League.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barca lên nhì bảng Champions League]]></title>
+        <id>https://vnexpress.net/barca-len-nhi-bang-champions-league-4826746.html</id>
+        <link href="https://vnexpress.net/barca-len-nhi-bang-champions-league-4826746.html"/>
+        <updated>2024-12-11T23:00:45.000Z</updated>
+        <summary type="html"><![CDATA[Tiền đạo Lamine Yamal góp một kiến tạo giúp Barca thắng 3-2 trên sân Dortmund, ở lượt sáu vòng bảng Champions League.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kế hoạch 3-3-3 của chính quyền ông Trump]]></title>
+        <id>https://vnexpress.net/ke-hoach-3-3-3-cua-chinh-quyen-ong-trump-4826058.html</id>
+        <link href="https://vnexpress.net/ke-hoach-3-3-3-cua-chinh-quyen-ong-trump-4826058.html"/>
+        <updated>2024-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Giảm thâm hụt, nâng tăng trưởng và bơm thêm dầu là kế hoạch 3-3-3 đầy tham vọng nhưng thách thức của Bộ trưởng Tài chính được ông Trump đề cử.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cơn đau 'đến tận xương tủy' sau kéo dài 8 cm chân]]></title>
+        <id>https://vnexpress.net/con-dau-den-tan-xuong-tuy-sau-keo-dai-8-cm-chan-4825502.html</id>
+        <link href="https://vnexpress.net/con-dau-den-tan-xuong-tuy-sau-keo-dai-8-cm-chan-4825502.html"/>
+        <updated>2024-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sau ca mổ lắp khung kéo dài chân, Nguyễn Minh Hiếu, 31 tuổi, kiệt quệ thể xác và tinh thần khi phải chịu đựng cơn đau buốt não, thuốc giảm đau cũng "vô dụng".]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hành trình làm lại cuộc đời của nhạc công mất cả hai tay]]></title>
+        <id>https://vnexpress.net/hanh-trinh-lam-lai-cuoc-doi-cua-nhac-cong-mat-ca-hai-tay-4824330.html</id>
+        <link href="https://vnexpress.net/hanh-trinh-lam-lai-cuoc-doi-cua-nhac-cong-mat-ca-hai-tay-4824330.html"/>
+        <updated>2024-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cuộc đời của Dương Quyết Thắng tưởng như đã khép lại sau một tai nạn điện 15 năm trước.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5 ôtô hybrid bán nhiều nhất tháng 11]]></title>
+        <id>https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-hybrid-ban-nhieu-nhat-thang-11-4826399.html</id>
+        <link href="https://vnexpress.net/oto-xe-may/v-car/doanh-so/5-oto-hybrid-ban-nhieu-nhat-thang-11-4826399.html"/>
+        <updated>2024-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Suzuki XL7 giao nhiều xe hybrid mới nhất với hơn 400 xe, Toyota Innova Cross Hybrid giữ hạng hai với hơn 250 xe.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ôtô đi thẳng và xe máy rẽ trái suýt lao vào nhau]]></title>
+        <id>https://vnexpress.net/oto-di-thang-va-xe-may-re-trai-suyt-lao-vao-nhau-4826406.html</id>
+        <link href="https://vnexpress.net/oto-di-thang-va-xe-may-re-trai-suyt-lao-vao-nhau-4826406.html"/>
+        <updated>2024-12-11T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Lái xe phóng nhanh qua nút giao suýt đâm vào xe máy đang rẽ trái hôm 9/12 tại đường Nguyễn Hữu Cảnh.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saka giúp Arsenal thắng đậm tại Champions League]]></title>
+        <id>https://vnexpress.net/saka-giup-arsenal-thang-dam-tai-champions-league-4826742.html</id>
+        <link href="https://vnexpress.net/saka-giup-arsenal-thang-dam-tai-champions-league-4826742.html"/>
+        <updated>2024-12-11T22:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Tiền vệ cánh Bukayo Saka ghi cú đúp và kiến tạo bàn còn lại giúp Arsenal thắng Monaco 3-0 ở lượt sáu, vươn lên thứ ba Champions League.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saka giúp Arsenal thắng đậm tại Champions League]]></title>
+        <id>https://vnexpress.net/saka-giup-arsenal-thang-dam-tai-champions-league-4826742.html</id>
+        <link href="https://vnexpress.net/saka-giup-arsenal-thang-dam-tai-champions-league-4826742.html"/>
+        <updated>2024-12-11T22:54:52.000Z</updated>
+        <summary type="html"><![CDATA[Tiền vệ cánh Bukayo Saka ghi cú đúp và kiến tạo bàn còn lại giúp Arsenal thắng Monaco 3-0 ở lượt sáu, vươn lên thứ ba Champions League.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juventus khiến Man City chìm sâu vào khủng hoảng]]></title>
+        <id>https://vnexpress.net/juventus-khien-man-city-chim-sau-vao-khung-hoang-4826741.html</id>
+        <link href="https://vnexpress.net/juventus-khien-man-city-chim-sau-vao-khung-hoang-4826741.html"/>
+        <updated>2024-12-11T22:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Thất bại 0-2 trên sân Juventus ở lượt sáu vòng bảng Champions League khiến Man City rớt xuống thứ 22 và nhiều khả năng phải đá play-off.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Juventus khiến Man City chìm sâu vào khủng hoảng]]></title>
+        <id>https://vnexpress.net/juventus-khien-man-city-chim-sau-vao-khung-hoang-4826741.html</id>
+        <link href="https://vnexpress.net/juventus-khien-man-city-chim-sau-vao-khung-hoang-4826741.html"/>
+        <updated>2024-12-11T22:16:52.000Z</updated>
+        <summary type="html"><![CDATA[Thất bại 0-2 trên sân Juventus ở lượt sáu vòng bảng Champions League khiến Man City rớt xuống thứ 22 và nhiều khả năng phải đá play-off.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mộ cổ vị quan triều Nguyễn ở trung tâm TP HCM]]></title>
+        <id>https://vnexpress.net/mo-co-vi-quan-trieu-nguyen-o-trung-tam-tp-hcm-4826268.html</id>
+        <link href="https://vnexpress.net/mo-co-vi-quan-trieu-nguyen-o-trung-tam-tp-hcm-4826268.html"/>
+        <updated>2024-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ngôi mộ vị quan đảm nhận kiểm soát quân sự thời phong kiến, xây cách đây gần 170 năm, đến nay vẫn nguyên hiện trạng, vừa được xếp hạng di tích cấp thành phố.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chế độ cho người không đủ điều kiện hưởng lương hưu từ 1/7/2025?]]></title>
+        <id>https://vnexpress.net/che-do-cho-nguoi-khong-du-dieu-kien-huong-luong-huu-tu-1-7-2025-4826013.html</id>
+        <link href="https://vnexpress.net/che-do-cho-nguoi-khong-du-dieu-kien-huong-luong-huu-tu-1-7-2025-4826013.html"/>
+        <updated>2024-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tôi mới hay tin sang năm khi áp dụng Luật Bảo hiểm xã hội mới nhà nước sẽ có chế độ dành cho người lao động không đủ điều kiện hưởng lương hưu.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Điên cuồng giảm cân đón Tết]]></title>
+        <id>https://vnexpress.net/dien-cuong-giam-can-don-tet-4825918.html</id>
+        <link href="https://vnexpress.net/dien-cuong-giam-can-don-tet-4825918.html"/>
+        <updated>2024-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Muốn giảm 11 kg trong 2 tháng để có vòng eo thon thả, diện đầm đón Tết, Ngân, ở TP HCM, cắt tinh bột ra khỏi thực đơn, mua trà uống "thải độc, ép mỡ".]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chính biến Syria có thể xoay chuyển cán cân quyền lực ở Trung Đông]]></title>
+        <id>https://vnexpress.net/chinh-bien-syria-co-the-xoay-chuyen-can-can-quyen-luc-o-trung-dong-4825418.html</id>
+        <link href="https://vnexpress.net/chinh-bien-syria-co-the-xoay-chuyen-can-can-quyen-luc-o-trung-dong-4825418.html"/>
+        <updated>2024-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thổ Nhĩ Kỳ tăng lợi thế, Nga, Iran giảm ảnh hưởng ở khu vực và người Syria đang hy vọng không có một cuộc nội chiến khác khi chính quyền Assad sụp đổ.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nhà sưu tập Việt trưng bày hơn 200 cổ vật gốm, tranh thờ]]></title>
+        <id>https://vnexpress.net/nha-suu-tap-viet-trung-bay-hon-200-co-vat-gom-tranh-tho-4825679.html</id>
+        <link href="https://vnexpress.net/nha-suu-tap-viet-trung-bay-hon-200-co-vat-gom-tranh-tho-4825679.html"/>
+        <updated>2024-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Đồ gốm từ văn hóa Đông Sơn, tranh thờ của dân tộc Sán Dìu được nhà sưu tập Phạm Đức Sĩ giới thiệu tại triển lãm.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honda giành cú đúp Xe của năm của Nhật Bản]]></title>
+        <id>https://vnexpress.net/honda-gianh-cu-dup-xe-cua-nam-cua-nhat-ban-4826547.html</id>
+        <link href="https://vnexpress.net/honda-gianh-cu-dup-xe-cua-nam-cua-nhat-ban-4826547.html"/>
+        <updated>2024-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Mẫu minivan Freed là Xe của năm toàn thị trường, trong khi CR-V e:FCEV giành giải Xe công nghệ tại giải thưởng được tổ chức thường niên từ 1980.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chính biến Syria có thể xoay chuyển cán cân quyền lực ở Trung Đông]]></title>
+        <id>https://vnexpress.net/chinh-bien-syria-co-the-xoay-chuyen-can-can-quyen-luc-o-trung-dong-4825418.html</id>
+        <link href="https://vnexpress.net/chinh-bien-syria-co-the-xoay-chuyen-can-can-quyen-luc-o-trung-dong-4825418.html"/>
+        <updated>2024-12-11T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thổ Nhĩ Kỳ tăng lợi thế, Nga, Iran giảm ảnh hưởng ở khu vực và người Syria đang hy vọng không có một cuộc nội chiến khác khi chính quyền Assad sụp đổ.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Toàn cảnh vụ bắt giữ nghi phạm ám sát CEO Mỹ]]></title>
+        <id>https://vnexpress.net/toan-canh-vu-bat-giu-nghi-pham-am-sat-ceo-my-4826738.html</id>
+        <link href="https://vnexpress.net/toan-canh-vu-bat-giu-nghi-pham-am-sat-ceo-my-4826738.html"/>
+        <updated>2024-12-11T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kết quả mới nhất cho thấy dấu vân tay tại hiện trường trùng khớp với Luigi Mangione, các tài liệu cho thấy nghi phạm dường như tức giận với chính sách bảo hiểm của Mỹ.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Facebook, Messenger gặp sự cố]]></title>
+        <id>https://vnexpress.net/facebook-messenger-gap-su-co-4826737.html</id>
+        <link href="https://vnexpress.net/facebook-messenger-gap-su-co-4826737.html"/>
+        <updated>2024-12-11T19:35:11.000Z</updated>
+        <summary type="html"><![CDATA[Loạt dịch vụ của Meta gồm Facebook, Messenger, Instagram, WhatsApp không thể truy cập hoặc hoạt động chập chờn.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Apple phát hành iOS 18.2 với Siri hỗ trợ ChatGPT]]></title>
+        <id>https://vnexpress.net/apple-phat-hanh-ios-18-2-voi-siri-ho-tro-chatgpt-4826735.html</id>
+        <link href="https://vnexpress.net/apple-phat-hanh-ios-18-2-voi-siri-ho-tro-chatgpt-4826735.html"/>
+        <updated>2024-12-11T19:07:36.000Z</updated>
+        <summary type="html"><![CDATA[Với iOs 18.2 vừa ra mắt, iPhone, iPad, máy Mac tương thích Apple Intelligence sẽ tích hợp sâu ChatGPT, bổ sung tính năng tạo hình ảnh, emoji bằng AI.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 rủi ro sức khỏe thường gặp khi tập thể dục mùa lạnh]]></title>
+        <id>https://vnexpress.net/4-rui-ro-suc-khoe-thuong-gap-khi-tap-the-duc-mua-lanh-4826072.html</id>
+        <link href="https://vnexpress.net/4-rui-ro-suc-khoe-thuong-gap-khi-tap-the-duc-mua-lanh-4826072.html"/>
+        <updated>2024-12-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tập thể dục mùa lạnh có thể tiềm ẩn nhiều rủi ro sức khỏe như tê cóng, hạ thân nhiệt, bỏng lạnh hoặc bệnh cước.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Có nên nhỏ chanh vào mắt chữa đau mắt đỏ?]]></title>
+        <id>https://vnexpress.net/co-nen-nho-chanh-vao-mat-chua-dau-mat-do-4826057.html</id>
+        <link href="https://vnexpress.net/co-nen-nho-chanh-vao-mat-chua-dau-mat-do-4826057.html"/>
+        <updated>2024-12-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tôi đau mắt đỏ, nhiều người khuyên nhỏ nước chanh vào mắt sẽ lành bệnh, nên hay không? (Hùng, 24 tuổi, TP HCM)]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tham vọng 500 tỷ euro của EU để ứng phó áp lực từ ông Trump]]></title>
+        <id>https://vnexpress.net/tham-vong-500-ty-euro-cua-eu-de-ung-pho-ap-luc-tu-ong-trump-4824542.html</id>
+        <link href="https://vnexpress.net/tham-vong-500-ty-euro-cua-eu-de-ung-pho-ap-luc-tu-ong-trump-4824542.html"/>
+        <updated>2024-12-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[EU thảo luận khả năng thiết lập quỹ 500 tỷ euro cho các dự án quốc phòng, nhằm tăng chi tiêu quân sự, ứng phó với những lời đe dọa từ ông Trump.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tham vọng 500 tỷ euro của EU để ứng phó áp lực từ ông Trump]]></title>
+        <id>https://vnexpress.net/tham-vong-500-ty-euro-cua-eu-de-ung-pho-ap-luc-tu-ong-trump-4824542.html</id>
+        <link href="https://vnexpress.net/tham-vong-500-ty-euro-cua-eu-de-ung-pho-ap-luc-tu-ong-trump-4824542.html"/>
+        <updated>2024-12-11T18:00:00.000Z</updated>
+        <summary type="html"><![CDATA[EU thảo luận khả năng thiết lập quỹ 500 tỷ euro cho các dự án quốc phòng, nhằm tăng chi tiêu quân sự, ứng phó với những lời đe dọa từ ông Trump.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Malaysia 3-2 Timor Leste]]></title>
+        <id>https://vnexpress.net/malaysia-3-2-timor-leste-4822248.html</id>
+        <link href="https://vnexpress.net/malaysia-3-2-timor-leste-4822248.html"/>
+        <updated>2024-12-11T17:28:39.000Z</updated>
+        <summary type="html"><![CDATA[Timor Leste gây bất ngờ khi dẫn trước 2-1, trước khi chịu thua ở lượt hai bảng A ASEAN Cup 2024.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tổ hợp 7 ngôi nhà tái hiện hình ảnh làng quê Việt]]></title>
+        <id>https://vnexpress.net/to-hop-7-ngoi-nha-tai-hien-hinh-anh-lang-que-viet-4826531.html</id>
+        <link href="https://vnexpress.net/to-hop-7-ngoi-nha-tai-hien-hinh-anh-lang-que-viet-4826531.html"/>
+        <updated>2024-12-11T17:27:32.000Z</updated>
+        <summary type="html"><![CDATA[Công trình bao gồm bảy khối nhà riêng biệt với các module có chiều cao khác nhau, gợi nhắc về một ngôi làng truyền thống của người Việt Nam.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lượng nhiên liệu hàng không bền vững 'tăng quá thấp với kỳ vọng']]></title>
+        <id>https://vnexpress.net/luong-nhien-lieu-hang-khong-ben-vung-tang-qua-thap-voi-ky-vong-4826573.html</id>
+        <link href="https://vnexpress.net/luong-nhien-lieu-hang-khong-ben-vung-tang-qua-thap-voi-ky-vong-4826573.html"/>
+        <updated>2024-12-11T17:15:41.000Z</updated>
+        <summary type="html"><![CDATA[Sản lượng nhiên liệu hàng không bền vững năm 2024 ước đạt 1 triệu tấn, thấp hơn đáng kể so với dự báo 1,5 triệu tấn trước đó.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khám phá hai chợ đêm nổi tiếng ở Cao Hùng]]></title>
+        <id>https://vnexpress.net/kham-pha-hai-cho-dem-noi-tieng-o-cao-hung-4826347.html</id>
+        <link href="https://vnexpress.net/kham-pha-hai-cho-dem-noi-tieng-o-cao-hung-4826347.html"/>
+        <updated>2024-12-11T17:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Lục Hợp và Thụy Phong là hai trong ba khu chợ đêm ở Cao Hùng nhộn nhịp tới rạng sáng, là điểm vui chơi, ăn uống yêu thích của người dân lẫn du khách.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Liên danh của Sun Group làm khu đô thị 12.000 tỷ ở Bình Thuận]]></title>
+        <id>https://vnexpress.net/lien-danh-cua-sun-group-lam-khu-do-thi-12-000-ty-o-binh-thuan-4826727.html</id>
+        <link href="https://vnexpress.net/lien-danh-cua-sun-group-lam-khu-do-thi-12-000-ty-o-binh-thuan-4826727.html"/>
+        <updated>2024-12-11T17:03:00.000Z</updated>
+        <summary type="html"><![CDATA[Liên danh Mặt trời Hạ Long và Biển đẹp Phú Quốc vừa được chấp thuận đầu tư khu đô thị Hàm Tiến - Mũi Né (khu III) với vốn 12.000 tỷ đồng.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chế độ ăn vào mùa đông giúp bảo vệ thận]]></title>
+        <id>https://vnexpress.net/che-do-an-vao-mua-dong-giup-bao-ve-than-4824856.html</id>
+        <link href="https://vnexpress.net/che-do-an-vao-mua-dong-giup-bao-ve-than-4824856.html"/>
+        <updated>2024-12-11T17:02:00.000Z</updated>
+        <summary type="html"><![CDATA[Tăng cường nước, bổ sung thực phẩm theo mùa, giảm muối và đường cũng như duy trì tập luyện hằng ngày được chuyên gia khuyến nghị giúp bảo vệ thận.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tư thế ngủ tiết lộ bạn yếu đuối hay mạnh mẽ]]></title>
+        <id>https://vnexpress.net/tu-the-ngu-tiet-lo-ban-yeu-duoi-hay-manh-me-4826558.html</id>
+        <link href="https://vnexpress.net/tu-the-ngu-tiet-lo-ban-yeu-duoi-hay-manh-me-4826558.html"/>
+        <updated>2024-12-11T17:01:00.000Z</updated>
+        <summary type="html"><![CDATA[Tư thế ngủ nói gì về bạn? Hãy đọc bài trắc nghiệm vui này để biết thêm về đặc điểm tính cách và cấu tạo cảm xúc của bạn.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore 2-1 Campuchia]]></title>
+        <id>https://vnexpress.net/singapore-2-1-campuchia-4826275.html</id>
+        <link href="https://vnexpress.net/singapore-2-1-campuchia-4826275.html"/>
+        <updated>2024-12-11T17:00:40.000Z</updated>
+        <summary type="html"><![CDATA[Sai lầm tai hại của thủ môn Vireak Dara và sự phung phí ở hàng công khiến Campuchia thất bại ở lượt hai bảng A ASEAN Cup 2024.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bữa trưa với 'bố già AI']]></title>
+        <id>https://vnexpress.net/bua-trua-voi-bo-gia-ai-4826731.html</id>
+        <link href="https://vnexpress.net/bua-trua-voi-bo-gia-ai-4826731.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Chủ tịch FPT Trương Gia Bình đón khách từ lối vào biệt thự riêng trong một ngày Hà Nội nắng vàng.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mẫu biển số ôtô, xe máy áp dụng từ 2025]]></title>
+        <id>https://vnexpress.net/mau-bien-so-oto-xe-may-ap-dung-tu-2025-4826718.html</id>
+        <link href="https://vnexpress.net/mau-bien-so-oto-xe-may-ap-dung-tu-2025-4826718.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Từ năm 2025, ôtô được cấp một biển ngắn, một biển dài với kích thước giữ nguyên như hiện nay song các yêu cầu kỹ thuật làm biển "khắt khe" hơn.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elon Musk kinh ngạc với chip lượng tử 'không tưởng' của Google]]></title>
+        <id>https://vnexpress.net/elon-musk-kinh-ngac-voi-chip-luong-tu-khong-tuong-cua-google-4826701.html</id>
+        <link href="https://vnexpress.net/elon-musk-kinh-ngac-voi-chip-luong-tu-khong-tuong-cua-google-4826701.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tỷ phú Elon Musk thể hiện sự kinh ngạc với chip Google Willow, để ngỏ khả năng triển khai cụm máy dùng chip này lên vũ trụ.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bến Tre thả hơn 200 triệu ong ký sinh diệt sâu đầu đen]]></title>
+        <id>https://vnexpress.net/ben-tre-tha-hon-200-trieu-ong-ky-sinh-diet-sau-dau-den-4826694.html</id>
+        <link href="https://vnexpress.net/ben-tre-tha-hon-200-trieu-ong-ky-sinh-diet-sau-dau-den-4826694.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hơn 200 triệu con ong ký sinh được ngành chức năng nhân nuôi và phóng thích trong bối cảnh gần 600 ha dừa bị sâu đầu đen gây hại.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tổ chức xe trung chuyển khách đến Bến xe Miền Đông mới từ 1/1/2025]]></title>
+        <id>https://vnexpress.net/to-chuc-xe-trung-chuyen-khach-den-ben-xe-mien-dong-moi-tu-1-1-2025-4826656.html</id>
+        <link href="https://vnexpress.net/to-chuc-xe-trung-chuyen-khach-den-ben-xe-mien-dong-moi-tu-1-1-2025-4826656.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ôtô trung chuyển khách đến và rời Bến xe Miền Đông mới sẽ hoạt động từ đầu năm 2025 tạo thuận lợi cho người dân đi lại, nhất là dịp Tết sắp tới.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ảo tưởng giỏi ngoại ngữ khi cố định Tiếng Anh làm môn thứ ba thi vào 10]]></title>
+        <id>https://vnexpress.net/ao-tuong-gioi-ngoai-ngu-khi-co-dinh-tieng-anh-lam-mon-thu-ba-thi-vao-10-4826600.html</id>
+        <link href="https://vnexpress.net/ao-tuong-gioi-ngoai-ngu-khi-co-dinh-tieng-anh-lam-mon-thu-ba-thi-vao-10-4826600.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Các môn khoa học là nền tảng, nên được coi trọng trước, còn ngoại ngữ chỉ là phương tiện, giống như tập xe đạp trước rồi mới tới xe máy.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Là quản lý cấp trung nhưng tôi chưa thể yên tâm công việc]]></title>
+        <id>https://vnexpress.net/la-quan-ly-cap-trung-nhung-toi-chua-the-yen-tam-cong-viec-4826583.html</id>
+        <link href="https://vnexpress.net/la-quan-ly-cap-trung-nhung-toi-chua-the-yen-tam-cong-viec-4826583.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Tôi muốn học thêm nhưng chưa biết lấy đâu thời gian vì phải tự nuôi thân, nuôi gia đình và sắp kết hôn.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biến vỏ ốc thành tranh]]></title>
+        <id>https://vnexpress.net/bien-vo-oc-thanh-tranh-4826532.html</id>
+        <link href="https://vnexpress.net/bien-vo-oc-thanh-tranh-4826532.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Thấy vỏ ốc, sò dạt vào bãi biển chất đống, anh Võ Cao Đỉnh nhặt về tự mày mò tạo thành tranh bán tiền triệu mỗi bức.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Em là thành viên còn thiếu mà gia đình anh mong chào đón]]></title>
+        <id>https://vnexpress.net/em-la-thanh-vien-con-thieu-ma-gia-dinh-anh-mong-chao-don-4826368.html</id>
+        <link href="https://vnexpress.net/em-la-thanh-vien-con-thieu-ma-gia-dinh-anh-mong-chao-don-4826368.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Trong suốt 22 năm qua, em đi qua những đâu, làm những gì, em có giống anh, cùng phát tín hiệu gửi vũ trụ, cùng kiếm tìm nhau?]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thu Trang: 'Tôi không xem Trấn Thành là đối thủ']]></title>
+        <id>https://vnexpress.net/thu-trang-toi-khong-xem-tran-thanh-la-doi-thu-4826351.html</id>
+        <link href="https://vnexpress.net/thu-trang-toi-khong-xem-tran-thanh-la-doi-thu-4826351.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Diễn viên Thu Trang nói không ngại khi có phim ra rạp mùa Tết cùng tác phẩm của Trấn Thành, vì tự tin màu sắc khác biệt.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bánh đáp dừng quay thế nào sau khi máy bay cất cánh?]]></title>
+        <id>https://vnexpress.net/banh-dap-dung-quay-the-nao-sau-khi-may-bay-cat-canh-4825915.html</id>
+        <link href="https://vnexpress.net/banh-dap-dung-quay-the-nao-sau-khi-may-bay-cat-canh-4825915.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Sau khi máy bay cất cánh, bánh đáp chính cần được phanh và dừng quay trước khi xoay sang bên để thu gọn lên, tránh gây rung lắc.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tìm kiếm người thân trong tuyệt vọng tại nhà tù Syria]]></title>
+        <id>https://vnexpress.net/tim-kiem-nguoi-than-trong-tuyet-vong-tai-nha-tu-syria-4825877.html</id>
+        <link href="https://vnexpress.net/tim-kiem-nguoi-than-trong-tuyet-vong-tai-nha-tu-syria-4825877.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ngay sau khi chính phủ ông Assad sụp đổ, bà Rana vội chạy tới nhà tù Saydnaya tìm người con trai đã mất tích 13 năm nhưng vô vọng.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bi kịch từ sai lầm cho bạn gái cũ ở nhờ]]></title>
+        <id>https://vnexpress.net/bi-kich-tu-sai-lam-cho-ban-gai-cu-o-nho-4823399.html</id>
+        <link href="https://vnexpress.net/bi-kich-tu-sai-lam-cho-ban-gai-cu-o-nho-4823399.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Cảm thông bạn gái cũ mất việc và không có chỗ ở, Christian Rojas cho ở nhờ nhà mình, không ngờ cô ta dẫn bạn trai mới đến cướp của và tra tấn anh đến chết.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tìm kiếm người thân trong tuyệt vọng tại nhà tù Syria]]></title>
+        <id>https://vnexpress.net/tim-kiem-nguoi-than-trong-tuyet-vong-tai-nha-tu-syria-4825877.html</id>
+        <link href="https://vnexpress.net/tim-kiem-nguoi-than-trong-tuyet-vong-tai-nha-tu-syria-4825877.html"/>
+        <updated>2024-12-11T17:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ngay sau khi chính phủ ông Assad sụp đổ, bà Rana vội chạy tới nhà tù Saydnaya tìm người con trai đã mất tích 13 năm nhưng vô vọng.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Có nên liên thông lên đại học ngành Công nghệ thông tin]]></title>
+        <id>https://vnexpress.net/co-nen-lien-thong-len-dai-hoc-nganh-cong-nghe-thong-tin-4825649.html</id>
+        <link href="https://vnexpress.net/co-nen-lien-thong-len-dai-hoc-nganh-cong-nghe-thong-tin-4825649.html"/>
+        <updated>2024-12-11T16:59:00.000Z</updated>
+        <summary type="html"><![CDATA[Em đã tốt nghiệp cao đẳng ngành Công nghệ thông tin, đang phân vân việc học liên thông lên đại học.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mỹ cam kết tiếp tục hỗ trợ đồng minh ở Syria]]></title>
+        <id>https://vnexpress.net/my-cam-ket-tiep-tuc-ho-tro-dong-minh-o-syria-4826728.html</id>
+        <link href="https://vnexpress.net/my-cam-ket-tiep-tuc-ho-tro-dong-minh-o-syria-4826728.html"/>
+        <updated>2024-12-11T16:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Bộ trưởng Quốc phòng Mỹ cam kết duy trì hợp tác với nhóm vũ trang đồng minh ở Syria, trong đó dân quân người Kurd đóng vai trò nòng cốt.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mỹ cam kết tiếp tục hỗ trợ đồng minh ở Syria]]></title>
+        <id>https://vnexpress.net/my-cam-ket-tiep-tuc-ho-tro-dong-minh-o-syria-4826728.html</id>
+        <link href="https://vnexpress.net/my-cam-ket-tiep-tuc-ho-tro-dong-minh-o-syria-4826728.html"/>
+        <updated>2024-12-11T16:37:28.000Z</updated>
+        <summary type="html"><![CDATA[Bộ trưởng Quốc phòng Mỹ cam kết duy trì hợp tác với nhóm vũ trang đồng minh ở Syria, trong đó dân quân người Kurd đóng vai trò nòng cốt.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hợp nhất Bộ Tài chính, Kế hoạch &amp; Đầu tư dự kiến giảm 22 đầu mối]]></title>
+        <id>https://vnexpress.net/hop-nhat-hai-bo-tai-chinh-ke-hoach-va-dau-tu-4826723.html</id>
+        <link href="https://vnexpress.net/hop-nhat-hai-bo-tai-chinh-ke-hoach-va-dau-tu-4826723.html"/>
+        <updated>2024-12-11T16:03:27.000Z</updated>
+        <summary type="html"><![CDATA[Sau khi sắp xếp lại thành Bộ Kinh tế, Tài chính, 56 đầu mối của hai bộ dự kiến giảm còn 34 và nhận thêm một đầu mối là Bảo hiểm xã hội.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nga có thể sắp phóng tiếp tên lửa Oreshnik đáp trả Ukraine]]></title>
+        <id>https://vnexpress.net/nga-co-the-sap-phong-tiep-ten-lua-oreshnik-dap-tra-ukraine-4826720.html</id>
+        <link href="https://vnexpress.net/nga-co-the-sap-phong-tiep-ten-lua-oreshnik-dap-tra-ukraine-4826720.html"/>
+        <updated>2024-12-11T15:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Một quan chức Mỹ cho biết Nga có thể phóng tiếp tên lửa đạn đạo Oreshnik vào Ukraine, sau khi bị Kiev tập kích lãnh thổ bằng tên lửa ATACMS.]]></summary>
+        <author>
+            <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nga có thể sắp phóng tiếp tên lửa Oreshnik đáp trả Ukraine]]></title>
+        <id>https://vnexpress.net/nga-co-the-sap-phong-tiep-ten-lua-oreshnik-dap-tra-ukraine-4826720.html</id>
+        <link href="https://vnexpress.net/nga-co-the-sap-phong-tiep-ten-lua-oreshnik-dap-tra-ukraine-4826720.html"/>
+        <updated>2024-12-11T15:55:08.000Z</updated>
+        <summary type="html"><![CDATA[Một quan chức Mỹ cho biết Nga có thể phóng tiếp tên lửa đạn đạo Oreshnik vào Ukraine, sau khi bị Kiev tập kích lãnh thổ bằng tên lửa ATACMS.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Timor Leste suýt gây sốc cho Malaysia ở ASEAN Cup 2024]]></title>
+        <id>https://vnexpress.net/timor-leste-suyt-gay-soc-cho-malaysia-o-asean-cup-2024-4826721.html</id>
+        <link href="https://vnexpress.net/timor-leste-suyt-gay-soc-cho-malaysia-o-asean-cup-2024-4826721.html"/>
+        <updated>2024-12-11T15:29:49.000Z</updated>
+        <summary type="html"><![CDATA[Timor Lester có lúc dẫn trước 2-1, nhưng không thể trụ vững trước hoả lực tấn công của chủ nhà và thua ngược 2-3 ở lượt thứ hai bảng A ASEAN Cup 2024, tối 11/12.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build a Video Subtitle Generator using the Gemini API]]></title>
+        <id>6759af8bb972ec12da4879d3</id>
+        <link href="https://www.freecodecamp.org/news/build-a-video-subtitle-generator-using-the-gemini-api/"/>
+        <updated>2024-12-11T15:28:11.000Z</updated>
+        <summary type="html"><![CDATA[In this tutorial, you'll build an AI-powered subtitle generator using Google's Gemini API. We'll create a project called “AI-Subtitle-Generator” using React for the front end and Express for the back end. Get ready for a fun and practical project. Ta...]]></summary>
+        <author>
+            <name>Sanjay R</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tuyển Việt Nam chuẩn bị nghênh chiến Indonesia]]></title>
+        <id>https://vnexpress.net/tuyen-viet-nam-chuan-bi-nghenh-chien-indonesia-4824605.html</id>
+        <link href="https://vnexpress.net/tuyen-viet-nam-chuan-bi-nghenh-chien-indonesia-4824605.html"/>
+        <updated>2024-12-11T14:06:57.000Z</updated>
+        <summary type="html"><![CDATA[Sau khi trở về từ Lào, chiều nay 11/12 HLV Kim Sang-sik cùng các cầu thủ bắt đầu tập luyện chuẩn bị cho cuộc đại chiến với Indonesia ở bảng B ASEAN Cup 2024.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sứ mệnh của Nga tại Syria 'đã kết thúc']]></title>
+        <id>https://vnexpress.net/su-menh-cua-nga-tai-syria-da-ket-thuc-4826700.html</id>
+        <link href="https://vnexpress.net/su-menh-cua-nga-tai-syria-da-ket-thuc-4826700.html"/>
+        <updated>2024-12-11T13:55:39.000Z</updated>
+        <summary type="html"><![CDATA[Điện Kremlin cho biết sứ mệnh của Nga tại Syria "đã kết thúc" và Moskva sẽ xem xét bước đi tiếp theo dựa trên tình hình thực tế.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hàn Quốc xem xét lệnh bắt khẩn cấp Tổng thống Yoon]]></title>
+        <id>https://vnexpress.net/han-quoc-xem-xet-lenh-bat-khan-cap-tong-thong-yoon-4826697.html</id>
+        <link href="https://vnexpress.net/han-quoc-xem-xet-lenh-bat-khan-cap-tong-thong-yoon-4826697.html"/>
+        <updated>2024-12-11T13:14:37.000Z</updated>
+        <summary type="html"><![CDATA[Lãnh đạo cơ quan điều tra chống tham nhũng Hàn Quốc cho biết họ có thể bắt khẩn cấp Tổng thống Yoon Suk-yeol khi các điều kiện được đáp ứng.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thông điệp từ bộ đồ lính khi công du nước ngoài của ông Zelensky]]></title>
+        <id>https://vnexpress.net/thong-diep-tu-bo-do-linh-khi-cong-du-nuoc-ngoai-cua-ong-zelensky-4826103.html</id>
+        <link href="https://vnexpress.net/thong-diep-tu-bo-do-linh-khi-cong-du-nuoc-ngoai-cua-ong-zelensky-4826103.html"/>
+        <updated>2024-12-11T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Ông Zelensky nhiều lần bị chỉ trích vì mặc trang phục kiểu quân đội khi công du, nhưng phong cách đó giúp ông truyền tải thông điệp mạnh mẽ giữa cuộc chiến.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ukraine tuyên bố tập kích kho dầu ở biên giới Nga]]></title>
+        <id>https://vnexpress.net/ukraine-tuyen-bo-tap-kich-kho-dau-o-bien-gioi-nga-4826667.html</id>
+        <link href="https://vnexpress.net/ukraine-tuyen-bo-tap-kich-kho-dau-o-bien-gioi-nga-4826667.html"/>
+        <updated>2024-12-11T11:40:58.000Z</updated>
+        <summary type="html"><![CDATA[Ukraine phóng tên lửa và máy bay không người lái tấn công hai khu vực biên giới Nga, làm cháy kho dầu và gây hư hại một cơ sở công nghiệp.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Giáo hoàng Francis kêu gọi tái lập hòa bình ở Syria]]></title>
+        <id>https://vnexpress.net/giao-hoang-francis-keu-goi-tai-lap-hoa-binh-o-syria-4826661.html</id>
+        <link href="https://vnexpress.net/giao-hoang-francis-keu-goi-tai-lap-hoa-binh-o-syria-4826661.html"/>
+        <updated>2024-12-11T11:21:22.000Z</updated>
+        <summary type="html"><![CDATA[Giáo hoàng Francis cầu nguyện người dân Syria có lại hòa bình sau nhiều năm chiến tranh, các tôn giáo khác biệt có thể chung sống hòa thuận.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoàng Đức: ‘Tôi chơi không tốt trước Lào’]]></title>
+        <id>https://vnexpress.net/hoang-duc-toi-choi-khong-tot-truoc-lao-4826678.html</id>
+        <link href="https://vnexpress.net/hoang-duc-toi-choi-khong-tot-truoc-lao-4826678.html"/>
+        <updated>2024-12-11T11:02:46.000Z</updated>
+        <summary type="html"><![CDATA[Tiền vệ Nguyễn Hoàng Đức là cầu thủ làm mất quyền kiểm soát bóng nhiều nhất, với 22 lần, trong trận Việt Nam thắng Lào 4-1 ở lượt ra quân bảng B ASEAN Cup 2024.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['Ác mộng thủ môn' khiến Campuchia thua ở ASEAN Cup]]></title>
+        <id>https://vnexpress.net/truc-tiep-tran-singapore-vs-campuchia-tai-bang-a-asean-cup-2024-4826654-tong-thuat.html</id>
+        <link href="https://vnexpress.net/truc-tiep-tran-singapore-vs-campuchia-tai-bang-a-asean-cup-2024-4826654-tong-thuat.html"/>
+        <updated>2024-12-11T10:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Campuchia lần đầu ghi bàn vào lưới Singapore tại ASEAN Cup 2024, nhưng vẫn thua 1-2 vì hai sai lầm thủ môn, ở lượt hai bảng A chiều 11/12.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lãnh tụ Iran cáo buộc Mỹ, Israel lật đổ ông Assad]]></title>
+        <id>https://vnexpress.net/lanh-tu-iran-cao-buoc-my-israel-lat-do-ong-assad-4826594.html</id>
+        <link href="https://vnexpress.net/lanh-tu-iran-cao-buoc-my-israel-lat-do-ong-assad-4826594.html"/>
+        <updated>2024-12-11T10:01:08.000Z</updated>
+        <summary type="html"><![CDATA[Lãnh tụ tối cao Iran Khamenei nói rằng Tehran có bằng chứng việc ông Assad bị lật đổ là kết quả từ kế hoạch của Mỹ, Israel và một nước thứ ba.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Guardiola: 'Cầu thủ Man City không cần là Messi hay Ronaldo']]></title>
+        <id>https://vnexpress.net/guardiola-cau-thu-man-city-khong-can-la-messi-hay-ronaldo-4826485.html</id>
+        <link href="https://vnexpress.net/guardiola-cau-thu-man-city-khong-can-la-messi-hay-ronaldo-4826485.html"/>
+        <updated>2024-12-11T10:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Theo HLV Pep Guardiola, các cầu thủ Man City không cần làm những điều phi thường như Lionel Messi và Cristiano Ronaldo để chơi tốt.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cựu chủ tịch LĐBĐ Malaysia muốn giật vé Asian Cup 2027 từ Việt Nam]]></title>
+        <id>https://vnexpress.net/cuu-chu-tich-ldbd-malaysia-muon-giat-ve-asian-cup-2027-tu-viet-nam-4826653.html</id>
+        <link href="https://vnexpress.net/cuu-chu-tich-ldbd-malaysia-muon-giat-ve-asian-cup-2027-tu-viet-nam-4826653.html"/>
+        <updated>2024-12-11T09:50:53.000Z</updated>
+        <summary type="html"><![CDATA[Cựu chủ tịch LĐBĐ Malaysia (FAM) Tunku Ismail Sultan Ibrahim thúc giục đội tuyển quốc gia đặt mục tiêu giành vé dự Asian Cup 2027.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lực lượng an ninh Văn phòng Tổng thống Hàn Quốc cản trở cảnh sát khám xét]]></title>
+        <id>https://vnexpress.net/luc-luong-an-ninh-van-phong-tong-thong-han-quoc-can-tro-canh-sat-kham-xet-4826574.html</id>
+        <link href="https://vnexpress.net/luc-luong-an-ninh-van-phong-tong-thong-han-quoc-can-tro-canh-sat-kham-xet-4826574.html"/>
+        <updated>2024-12-11T09:29:08.000Z</updated>
+        <summary type="html"><![CDATA[Lực lượng an ninh Văn phòng Tổng thống Hàn Quốc không hợp tác với cảnh sát, cản trở các nhà điều tra khám xét địa điểm này.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[9 đề cử đồng hồ thể thao xuất sắc]]></title>
+        <id>https://vnexpress.net/9-de-cu-dong-ho-the-thao-xuat-sac-4826619.html</id>
+        <link href="https://vnexpress.net/9-de-cu-dong-ho-the-thao-xuat-sac-4826619.html"/>
+        <updated>2024-12-11T09:26:26.000Z</updated>
+        <summary type="html"><![CDATA[Hạng mục Đồng hồ thể thao xuất sắc của VnExpress Runners of the Year quy tụ nhiều sản phẩm được cộng đồng chạy bộ ưa thích trong năm 2024.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Từ mẹ đơn thân ở Mỹ trở thành nữ hoàng hữu nghị Ghana]]></title>
+        <id>https://vnexpress.net/tu-me-don-than-o-my-tro-thanh-nu-hoang-huu-nghi-ghana-4826447.html</id>
+        <link href="https://vnexpress.net/tu-me-don-than-o-my-tro-thanh-nu-hoang-huu-nghi-ghana-4826447.html"/>
+        <updated>2024-12-11T09:04:29.000Z</updated>
+        <summary type="html"><![CDATA[25 năm sau khi sinh con ở tuổi 15 tại một nhà tình thương ở Detroit, Johnson được phong làm nữ hoàng hữu nghị của Ghana, châu Phi.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ông Trump gọi đùa Thủ tướng Trudeau là 'Thống đốc bang Canada']]></title>
+        <id>https://vnexpress.net/ong-trump-goi-dua-thu-tuong-trudeau-la-thong-doc-bang-canada-4826530.html</id>
+        <link href="https://vnexpress.net/ong-trump-goi-dua-thu-tuong-trudeau-la-thong-doc-bang-canada-4826530.html"/>
+        <updated>2024-12-11T08:47:57.000Z</updated>
+        <summary type="html"><![CDATA[Tổng thống đắc cử Trump gọi Thủ tướng Justin Trudeau là "thống đốc bang Canada", sau khi nói đùa rằng nước này có thể trở thành bang 51 của Mỹ.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dấu ấn Volvo tại DNSE Aquaman Vietnam 2024]]></title>
+        <id>https://vnexpress.net/dau-an-volvo-tai-dnse-aquaman-vietnam-2024-4823597.html</id>
+        <link href="https://vnexpress.net/dau-an-volvo-tai-dnse-aquaman-vietnam-2024-4823597.html"/>
+        <updated>2024-12-11T08:30:13.000Z</updated>
+        <summary type="html"><![CDATA[Trở thành đối tác vàng của DNSE Aquaman Vietnam 2024, Volvo muốn lan toả giá trị an toàn và tinh thần thể thao, sự quan tâm đến sức khoẻ cộng đồng.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ông Trump: Giải quyết khủng hoảng Ukraine là ưu tiên hàng đầu]]></title>
+        <id>https://vnexpress.net/ong-trump-giai-quyet-khung-hoang-ukraine-la-uu-tien-hang-dau-4826536.html</id>
+        <link href="https://vnexpress.net/ong-trump-giai-quyet-khung-hoang-ukraine-la-uu-tien-hang-dau-4826536.html"/>
+        <updated>2024-12-11T08:17:48.000Z</updated>
+        <summary type="html"><![CDATA[Ông Trump cho biết giải quyết khủng hoảng Ukraine sẽ là ưu tiên hàng đầu của ông, cho rằng vấn đề này khó khăn hơn tình hình ở Trung Đông.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flick: 'Thắng Dortmund sẽ là bước tiến quyết định của Barca']]></title>
+        <id>https://vnexpress.net/flick-thang-dortmund-se-la-buoc-tien-quyet-dinh-cua-barca-4826498.html</id>
+        <link href="https://vnexpress.net/flick-thang-dortmund-se-la-buoc-tien-quyet-dinh-cua-barca-4826498.html"/>
+        <updated>2024-12-11T08:11:50.000Z</updated>
+        <summary type="html"><![CDATA[HLV Hansi Flick tự tin về khả năng giành ba điểm trong trận gặp Dortmund ở vòng bảng Champions League hôm nay.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mbappe trả giá cho chiến thắng ở Champions League]]></title>
+        <id>https://vnexpress.net/mbappe-tra-gia-cho-chien-thang-o-champions-league-4825104.html</id>
+        <link href="https://vnexpress.net/mbappe-tra-gia-cho-chien-thang-o-champions-league-4825104.html"/>
+        <updated>2024-12-11T08:07:29.000Z</updated>
+        <summary type="html"><![CDATA[Tiền đạo người Pháp Kylian Mbappe phải rời sân ngay từ hiệp một trận thắng Atalanta 3-2 ở lượt sáu vòng bảng Champions League.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dias: 'Man City không thể bị ngăn cản nếu đạt phong độ cao nhất']]></title>
+        <id>https://vnexpress.net/dias-man-city-khong-the-bi-ngan-can-neu-dat-phong-do-cao-nhat-4826460.html</id>
+        <link href="https://vnexpress.net/dias-man-city-khong-the-bi-ngan-can-neu-dat-phong-do-cao-nhat-4826460.html"/>
+        <updated>2024-12-11T07:55:12.000Z</updated>
+        <summary type="html"><![CDATA[Trước trận gặp Juventus ở lượt sáu Champions League, trung vệ Ruben Dias tin Man City là tập thể bất khả chiến bại nếu có đủ quân số và thi đấu đúng phong độ.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chuyên gia Indonesia không kỳ vọng vào đội nhà ở ASEAN Cup 2024]]></title>
+        <id>https://vnexpress.net/chuyen-gia-indonesia-khong-ky-vong-vao-doi-nha-o-asean-cup-2024-4826539.html</id>
+        <link href="https://vnexpress.net/chuyen-gia-indonesia-khong-ky-vong-vao-doi-nha-o-asean-cup-2024-4826539.html"/>
+        <updated>2024-12-11T07:29:30.000Z</updated>
+        <summary type="html"><![CDATA[Chuyên gia Justinus Lhaksana (Justin) không hy vọng Indonesia sẽ vô địch ASEAN Cup 2024 dù được HLV Shin Tae-yong dẫn dắt.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Người Syria thấp thỏm sau ngày quân nổi dậy lật đổ chính phủ]]></title>
+        <id>https://vnexpress.net/nguoi-syria-thap-thom-sau-ngay-quan-noi-day-lat-do-chinh-phu-4826080.html</id>
+        <link href="https://vnexpress.net/nguoi-syria-thap-thom-sau-ngay-quan-noi-day-lat-do-chinh-phu-4826080.html"/>
+        <updated>2024-12-11T07:13:06.000Z</updated>
+        <summary type="html"><![CDATA[Giống nhiều người Syria, Siham Bader, 55 tuổi, lo lắng về liên minh vũ trang đang nắm quyền kiểm soát sau khi lật đổ ông Assad.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Biến cố có thể thổi bùng nỗi thù ghét của nghi phạm giết CEO Mỹ]]></title>
+        <id>https://vnexpress.net/bien-co-co-the-thoi-bung-noi-thu-ghet-cua-nghi-pham-giet-ceo-my-4826297.html</id>
+        <link href="https://vnexpress.net/bien-co-co-the-thoi-bung-noi-thu-ghet-cua-nghi-pham-giet-ceo-my-4826297.html"/>
+        <updated>2024-12-11T05:01:55.000Z</updated>
+        <summary type="html"><![CDATA[Luigi Mangione đang có cuộc sống như mơ thì gặp vấn đề với cột sống cần phẫu thuật, khiến anh ta chịu nhiều khổ sở và có thể nảy sinh tâm lý thù ghét ngành y tế, bảo hiểm.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arteta: 'Champions League không khác gì Ngoại hạng Anh']]></title>
+        <id>https://vnexpress.net/arteta-champions-league-khong-khac-gi-ngoai-hang-anh-4826424.html</id>
+        <link href="https://vnexpress.net/arteta-champions-league-khong-khac-gi-ngoai-hang-anh-4826424.html"/>
+        <updated>2024-12-11T05:00:00.000Z</updated>
+        <summary type="html"><![CDATA[HLV Mikel Arteta cho rằng Arsenal gặp đối thủ đẳng cấp cao mỗi tuần tại Ngoại hạng Anh cũng như Cup châu Âu, trước trận gặp Monaco ở lượt sáu Champions League.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ancelotti: 'Real đạt phiên bản tốt nhất khi hạ Atalanta']]></title>
+        <id>https://vnexpress.net/ancelotti-real-dat-phien-ban-tot-nhat-khi-ha-atalanta-4826309.html</id>
+        <link href="https://vnexpress.net/ancelotti-real-dat-phien-ban-tot-nhat-khi-ha-atalanta-4826309.html"/>
+        <updated>2024-12-11T04:46:19.000Z</updated>
+        <summary type="html"><![CDATA[Theo HLV Carlo Ancelotti, Real Madrid đạt phong độ cao nhất ở tấn công lẫn phòng ngự, khi thắng 3-2 trên sân Atalanta ở lượt sáu Champions League.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singapore – Campuchia: Nối tiếp bất ngờ ở ASEAN Cup?]]></title>
+        <id>https://vnexpress.net/singapore-campuchia-noi-tiep-bat-ngo-o-asean-cup-4826438.html</id>
+        <link href="https://vnexpress.net/singapore-campuchia-noi-tiep-bat-ngo-o-asean-cup-4826438.html"/>
+        <updated>2024-12-11T04:41:59.000Z</updated>
+        <summary type="html"><![CDATA[Sau trận hòa Malaysia, hôm nay Campuchia hoàn toàn có thể tạo thêm bất ngờ trước Singapore ở lượt trận thứ hai bảng A ASEAN Cup 2024.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ông Trump chọn bạn gái cũ của con trai làm đại sứ]]></title>
+        <id>https://vnexpress.net/ong-trump-chon-ban-gai-cu-cua-con-trai-lam-dai-su-4826411.html</id>
+        <link href="https://vnexpress.net/ong-trump-chon-ban-gai-cu-cua-con-trai-lam-dai-su-4826411.html"/>
+        <updated>2024-12-11T04:39:59.000Z</updated>
+        <summary type="html"><![CDATA[Tổng thống đắc cử Trump đề cử Kimberly Guilfoyle, cựu người dẫn chương trình Fox News từng đính hôn với Donald Jr., làm đại sứ Mỹ tại Hy Lạp trong chính quyền mới.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Triều Tiên nói Hàn Quốc đang 'hỗn loạn']]></title>
+        <id>https://vnexpress.net/trieu-tien-noi-han-quoc-dang-hon-loan-4826349.html</id>
+        <link href="https://vnexpress.net/trieu-tien-noi-han-quoc-dang-hon-loan-4826349.html"/>
+        <updated>2024-12-11T04:33:12.000Z</updated>
+        <summary type="html"><![CDATA[Triều Tiên lần đầu bình luận vụ Hàn Quốc thiết quân luật, cho rằng nước này đang "hỗn loạn" và sự nghiệp của Tổng thống Yoon sẽ "sớm kết thúc".]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thư gửi hai con của Mario Gotze]]></title>
+        <id>https://vnexpress.net/thu-gui-hai-con-cua-mario-gotze-4826448.html</id>
+        <link href="https://vnexpress.net/thu-gui-hai-con-cua-mario-gotze-4826448.html"/>
+        <updated>2024-12-11T04:29:54.000Z</updated>
+        <summary type="html"><![CDATA[Trong lá thư ngỏ trên trang The Tribunes' Players, tiền đạo người Đức trải lòng về những góc khuất sự nghiệp cùng tình cảm chứa chan dành cho vợ con.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gasperini: 'Atalanta tiến gần đẳng cấp của Real']]></title>
+        <id>https://vnexpress.net/gasperini-atalanta-tien-gan-dang-cap-cua-real-4826291.html</id>
+        <link href="https://vnexpress.net/gasperini-atalanta-tien-gan-dang-cap-cua-real-4826291.html"/>
+        <updated>2024-12-11T04:13:18.000Z</updated>
+        <summary type="html"><![CDATA[Theo HLV Gian Piero Gasperini, Atalanta đáng thua và rút ra nhiều bài học tốt trong thất bại 2-3 trước Real ở Champions League ngày 10/12.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nga sơ tán ông Assad khỏi Syria 'bằng cách an toàn nhất']]></title>
+        <id>https://vnexpress.net/nga-so-tan-ong-assad-khoi-syria-bang-cach-an-toan-nhat-4826318.html</id>
+        <link href="https://vnexpress.net/nga-so-tan-ong-assad-khoi-syria-bang-cach-an-toan-nhat-4826318.html"/>
+        <updated>2024-12-11T04:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Thứ trưởng Ngoại giao Nga cho biết nước này đã áp dụng biện pháp an toàn nhất để đưa Tổng thống Assad rời Syria, nhưng không nêu chi tiết.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hai lãnh đạo cảnh sát Hàn Quốc bị bắt khẩn cấp]]></title>
+        <id>https://vnexpress.net/hai-lanh-dao-canh-sat-han-quoc-bi-bat-khan-cap-4826316.html</id>
+        <link href="https://vnexpress.net/hai-lanh-dao-canh-sat-han-quoc-bi-bat-khan-cap-4826316.html"/>
+        <updated>2024-12-11T03:42:46.000Z</updated>
+        <summary type="html"><![CDATA[Cơ quan điều tra đặc biệt Hàn Quốc bắt khẩn cấp lãnh đạo cảnh sát quốc gia và cảnh sát thủ đô Seoul với cáo buộc tham gia phản loạn.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thủ lĩnh phe nổi dậy tuyên bố sẽ chấm dứt chiến tranh ở Syria]]></title>
+        <id>https://vnexpress.net/thu-linh-phe-noi-day-tuyen-bo-se-cham-dut-chien-tranh-o-syria-4826320.html</id>
+        <link href="https://vnexpress.net/thu-linh-phe-noi-day-tuyen-bo-se-cham-dut-chien-tranh-o-syria-4826320.html"/>
+        <updated>2024-12-11T03:29:53.000Z</updated>
+        <summary type="html"><![CDATA[Thủ lĩnh HTS tuyên bố Syria sẽ không còn chiến tranh và bước vào tái thiết, khẳng định phương Tây không cần lo sợ về tình hình nước này.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runner Trung Quốc để con gái 9 tuổi chạy hộ marathon]]></title>
+        <id>https://vnexpress.net/runner-trung-quoc-de-con-gai-9-tuoi-chay-ho-marathon-4826378.html</id>
+        <link href="https://vnexpress.net/runner-trung-quoc-de-con-gai-9-tuoi-chay-ho-marathon-4826378.html"/>
+        <updated>2024-12-11T03:26:05.000Z</updated>
+        <summary type="html"><![CDATA[Một runner Trung Quốc bị cấm thi đấu ba năm vì yêu cầu con gái chín tuổi chạy nốt 4 km cuối Wuyuan Marathon 2024 tại Giang Tây, Trung Quốc ngày 1/12.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cựu bộ trưởng quốc phòng Hàn Quốc tự tử bất thành]]></title>
+        <id>https://vnexpress.net/cuu-bo-truong-quoc-phong-han-quoc-tu-tu-bat-thanh-4826402.html</id>
+        <link href="https://vnexpress.net/cuu-bo-truong-quoc-phong-han-quoc-tu-tu-bat-thanh-4826402.html"/>
+        <updated>2024-12-11T03:13:26.000Z</updated>
+        <summary type="html"><![CDATA[Cựu bộ trưởng Quốc phòng Hàn Quốc Kim Yong-hyun, 65 tuổi, tìm cách tự tử trong tù nhưng đã được ngăn cản kịp thời.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nghị sĩ Mỹ đoán ông Biden sẽ ân xá cho em trai]]></title>
+        <id>https://vnexpress.net/nghi-si-my-doan-ong-biden-se-an-xa-cho-em-trai-4826326.html</id>
+        <link href="https://vnexpress.net/nghi-si-my-doan-ong-biden-se-an-xa-cho-em-trai-4826326.html"/>
+        <updated>2024-12-11T03:07:06.000Z</updated>
+        <summary type="html"><![CDATA[Hạ nghị sĩ Comer cho rằng Tổng thống Joe Biden sẽ ân xá cho em trai James Biden trong tháng cuối cùng tại nhiệm.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nghi phạm sát hại CEO bảo hiểm la hét khi đến tòa]]></title>
+        <id>https://vnexpress.net/nghi-pham-sat-hai-ceo-bao-hiem-la-het-khi-den-toa-4826311.html</id>
+        <link href="https://vnexpress.net/nghi-pham-sat-hai-ceo-bao-hiem-la-het-khi-den-toa-4826311.html"/>
+        <updated>2024-12-11T02:59:24.000Z</updated>
+        <summary type="html"><![CDATA[Mangione, nghi phạm trong vụ bắn chết CEO bảo hiểm Thompson ở New York, vùng vẫy, la hét về "công lý" khi bị cảnh sát áp giải đến tòa.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cảnh sát khám xét Văn phòng Tổng thống Hàn Quốc]]></title>
+        <id>https://vnexpress.net/canh-sat-kham-xet-van-phong-tong-thong-han-quoc-4826393.html</id>
+        <link href="https://vnexpress.net/canh-sat-kham-xet-van-phong-tong-thong-han-quoc-4826393.html"/>
+        <updated>2024-12-11T02:51:17.000Z</updated>
+        <summary type="html"><![CDATA[Cảnh sát khám xét Văn phòng Tổng thống Hàn Quốc và Bộ tư lệnh Đặc nhiệm, liên quan cuộc điều tra lệnh thiết quân luật.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Israel tuyên bố phá hủy 80% năng lực quân sự chiến lược của Syria]]></title>
+        <id>https://vnexpress.net/israel-tuyen-bo-pha-huy-80-nang-luc-quan-su-chien-luoc-cua-syria-4826285.html</id>
+        <link href="https://vnexpress.net/israel-tuyen-bo-pha-huy-80-nang-luc-quan-su-chien-luoc-cua-syria-4826285.html"/>
+        <updated>2024-12-11T02:24:55.000Z</updated>
+        <summary type="html"><![CDATA[Israel thông báo đã tập kích hơn 300 mục tiêu ở Syria trong vòng 48 giờ, phá hủy 80% năng lực quân sự chiến lược của nước láng giềng.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slot: 'Liverpool phòng ngự không tốt để thử tài Alisson']]></title>
+        <id>https://vnexpress.net/slot-liverpool-phong-ngu-khong-tot-de-thu-tai-alisson-4826296.html</id>
+        <link href="https://vnexpress.net/slot-liverpool-phong-ngu-khong-tot-de-thu-tai-alisson-4826296.html"/>
+        <updated>2024-12-11T02:16:33.000Z</updated>
+        <summary type="html"><![CDATA[HLV Arne Slot bông đùa rằng Liverpool phòng ngự không tốt trong trận thắng Girona 1-0 ở lượt sáu Champions League để thủ thành Alisson Becker phô diễn tài năng.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mourinho muốn công lý được thực thi trong vụ Man City]]></title>
+        <id>https://vnexpress.net/mourinho-muon-cong-ly-duoc-thuc-thi-trong-vu-man-city-4826298.html</id>
+        <link href="https://vnexpress.net/mourinho-muon-cong-ly-duoc-thuc-thi-trong-vu-man-city-4826298.html"/>
+        <updated>2024-12-11T01:58:47.000Z</updated>
+        <summary type="html"><![CDATA[Jose Mourinho phủ nhận mong muốn Man City xuống hạng và đề cao mối quan hệ với Pep Guardiola, nhưng hy vọng công lý được thực thi trong vụ kiện gian lận tài chính của ĐKVĐ Ngoại hạng Anh.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Houthi tấn công nhóm chiến hạm, tàu hàng Mỹ]]></title>
+        <id>https://vnexpress.net/houthi-tan-cong-nhom-chien-ham-tau-hang-my-4826289.html</id>
+        <link href="https://vnexpress.net/houthi-tan-cong-nhom-chien-ham-tau-hang-my-4826289.html"/>
+        <updated>2024-12-11T01:40:25.000Z</updated>
+        <summary type="html"><![CDATA[Quân đội Mỹ tuyên bố chặn cuộc tấn công bằng UAV, tên lửa của Houthi nhắm vào nhóm chiến hạm và tàu hàng nước này trên Vịnh Aden.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Man Utd tìm cách bán Marcus Rashford]]></title>
+        <id>https://vnexpress.net/man-utd-tim-cach-ban-marcus-rashford-4826290.html</id>
+        <link href="https://vnexpress.net/man-utd-tim-cach-ban-marcus-rashford-4826290.html"/>
+        <updated>2024-12-11T01:26:58.000Z</updated>
+        <summary type="html"><![CDATA[Man Utd sẵn sàng để Marcus Rashford ra đi ngay trong năm 2025 vì lo ngại lối sống ngoài sân cỏ của tiền đạo người Anh.]]></summary>
+        <author>
+            <name>Thể thao - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nghi phạm giết CEO bảo hiểm Mỹ viết sẵn thư hé lộ động cơ]]></title>
+        <id>https://vnexpress.net/nghi-pham-giet-ceo-bao-hiem-my-viet-san-thu-he-lo-dong-co-4826141.html</id>
+        <link href="https://vnexpress.net/nghi-pham-giet-ceo-bao-hiem-my-viet-san-thu-he-lo-dong-co-4826141.html"/>
+        <updated>2024-12-11T00:49:21.000Z</updated>
+        <summary type="html"><![CDATA[Luigi Mangione, nghi phạm ám sát CEO UnitedHealthcare, mang bên mình "bản tuyên bố" bày tỏ nỗi căm ghét với công ty bảo hiểm.]]></summary>
+        <author>
+            <name>Thế giới - VnExpress RSS</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ông Biden lo ngại sách lược kinh tế của ông Trump sẽ là 'thảm họa']]></title>
         <id>https://vnexpress.net/ong-biden-lo-ngai-sach-luoc-kinh-te-cua-ong-trump-se-la-tham-hoa-4826280.html</id>
@@ -204,6 +1334,16 @@
         <summary type="html"><![CDATA[Nhiều trường ghi nhận số thí sinh chọn môn xã hội tới 70-77%, gây lo ngại thiếu nhân lực ngành khoa học cơ bản sau này và băn khoăn việc cho học sinh chọn môn từ lớp 10.]]></summary>
         <author>
             <name>Tin mới nhất - VnExpress RSS</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Django's MVT Architecture Works: A Deep Dive into Models, Views, and Templates]]></title>
+        <id>6758c1285b5802ad4fa00d45</id>
+        <link href="https://www.freecodecamp.org/news/how-django-mvt-architecture-works/"/>
+        <updated>2024-12-10T22:31:04.000Z</updated>
+        <summary type="html"><![CDATA[Django is a high-level Python framework. It’s popular for its simplicity and efficiency in building robust web applications. At the heart of Django’s architecture is the Model-View-Template (MVT) pattern. Having a good understanding of how Models, Vi...]]></summary>
+        <author>
+            <name>Timothy Olanrewaju</name>
         </author>
     </entry>
     <entry>
